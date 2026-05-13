@@ -1,0 +1,2053 @@
+2026-03-17 03:06:35,227 - INFO - Initializing Gesture Recognition Application
+2026-03-17 03:06:35,227 - INFO - Validating setup...
+2026-03-17 03:06:35,227 - INFO - Model found: mobilenetv2_crop.h5
+2026-03-17 03:06:35,227 - INFO - Class names found: class_names.txt
+2026-03-17 03:06:35,228 - INFO - Output directory ready: live_crops
+2026-03-17 03:06:35,228 - INFO - Setup validation passed
+2026-03-17 03:06:35,228 - INFO - Initializing components...
+2026-03-17 03:06:35,228 - INFO - Model file found: mobilenetv2_crop.h5
+2026-03-17 03:06:36,271 - INFO - Model loaded successfully: mobilenetv2_crop.h5
+2026-03-17 03:06:36,272 - INFO - Class names file found: class_names.txt
+2026-03-17 03:06:36,272 - INFO - Loaded 29 class names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'asl_alphabet_test', 'del', 'space']
+2026-03-17 03:06:36,277 - INFO - MediaPipe hands initialized
+2026-03-17 03:06:40,273 - INFO - Camera initialized (index: 0)
+2026-03-17 03:06:40,273 - INFO - All components initialized successfully
+2026-03-17 03:06:40,274 - INFO - Starting gesture recognition loop...
+2026-03-17 03:06:40,274 - INFO - Press 'q' to exit
+2026-03-17 03:06:42,593 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,631 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,662 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,697 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,724 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,777 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,802 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,839 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,864 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,905 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,941 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:42,973 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,004 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,035 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,067 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,095 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,126 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,176 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,205 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,240 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,268 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,302 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,330 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,367 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,393 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,431 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,455 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,497 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,534 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,575 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,610 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,641 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,669 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,706 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,732 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,769 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,793 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,832 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,857 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,897 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,934 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:43,977 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,007 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,041 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,071 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,104 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,133 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,167 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,193 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,234 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,257 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,310 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,330 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,377 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,408 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,441 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,470 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,565 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,593 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,624 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,654 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,687 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,715 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,746 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,775 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,805 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,836 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,873 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,901 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,931 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,961 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:44,991 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,020 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,050 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,082 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,114 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,145 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,177 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,205 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,238 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,268 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,304 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,330 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,370 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,393 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,432 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,453 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,511 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,533 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,575 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,612 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,643 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,671 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,705 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,734 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,768 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,794 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,832 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,860 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,913 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,935 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,976 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:45,999 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,038 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,060 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,103 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,138 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,169 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,200 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,232 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,262 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,310 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,337 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,385 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,419 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,450 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,479 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,508 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,540 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,572 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,607 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,633 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,667 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,711 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,744 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,777 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,805 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,841 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,869 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,905 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,930 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,969 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:46,991 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,032 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,056 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,112 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,147 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,177 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,210 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,240 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,272 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,305 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,334 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,370 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,397 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,433 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,461 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,512 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,537 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,577 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:47,598 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:51,931 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:51,959 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:51,991 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,021 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,051 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,082 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,113 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,147 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,177 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,210 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,238 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,271 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,311 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,335 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,381 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,413 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,443 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,474 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,504 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,536 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,585 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,612 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,642 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,675 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,710 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,736 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,776 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,801 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,841 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,864 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,905 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,926 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:52,985 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,020 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,050 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,082 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,114 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,141 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,176 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,205 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,240 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,265 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,304 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,327 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,383 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,419 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,448 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,479 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,513 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,542 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,577 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,604 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,641 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,664 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,705 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,726 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,784 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,820 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,851 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,883 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,913 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,945 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:53,980 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,010 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,042 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,068 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,105 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,132 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,160 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,192 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,223 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,252 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,311 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,332 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,376 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,410 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,440 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,471 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,506 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,531 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,561 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,593 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,624 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,655 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,711 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,733 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,778 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,814 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,842 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,872 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,905 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,935 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,966 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:54,999 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,027 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,057 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,113 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,132 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,175 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,197 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,242 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,274 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,304 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,336 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,364 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,396 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,428 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,459 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,513 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,535 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,574 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:55,601 - ERROR - Error processing frame: 'Hands' object has no attribute 'HAND_CONNECTIONS'
+2026-03-17 03:06:56,925 - INFO - Exit requested by user
+2026-03-17 03:06:56,926 - INFO - Cleaning up resources...
+2026-03-17 03:06:57,267 - INFO - Cleanup complete
+2026-03-17 03:08:19,026 - INFO - Initializing Gesture Recognition Application
+2026-03-17 03:08:19,026 - INFO - Validating setup...
+2026-03-17 03:08:19,027 - INFO - Model found: mobilenetv2_crop.h5
+2026-03-17 03:08:19,027 - INFO - Class names found: class_names.txt
+2026-03-17 03:08:19,027 - INFO - Output directory ready: live_crops
+2026-03-17 03:08:19,027 - INFO - Setup validation passed
+2026-03-17 03:08:19,027 - INFO - Initializing components...
+2026-03-17 03:08:19,028 - INFO - Model file found: mobilenetv2_crop.h5
+2026-03-17 03:08:20,176 - INFO - Model loaded successfully: mobilenetv2_crop.h5
+2026-03-17 03:08:20,177 - INFO - Class names file found: class_names.txt
+2026-03-17 03:08:20,177 - INFO - Loaded 29 class names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'asl_alphabet_test', 'del', 'space']
+2026-03-17 03:08:20,183 - INFO - MediaPipe hands initialized
+2026-03-17 03:08:24,473 - INFO - Camera initialized (index: 0)
+2026-03-17 03:08:24,474 - INFO - All components initialized successfully
+2026-03-17 03:08:24,474 - INFO - Starting gesture recognition loop...
+2026-03-17 03:08:24,474 - INFO - Press 'q' to exit
+2026-03-17 03:08:27,954 - INFO - [Frame 68] Predicted: H (confidence: 0.86, stable for 1.00s)
+2026-03-17 03:08:28,052 - INFO - [Frame 69] Predicted: H (confidence: 0.92, stable for 1.72s)
+2026-03-17 03:08:28,155 - INFO - [Frame 70] Predicted: H (confidence: 0.82, stable for 1.82s)
+2026-03-17 03:08:28,257 - INFO - [Frame 71] Predicted: H (confidence: 0.72, stable for 1.92s)
+2026-03-17 03:08:28,371 - INFO - [Frame 72] Predicted: H (confidence: 0.60, stable for 2.03s)
+2026-03-17 03:08:28,470 - INFO - [Frame 73] Predicted: H (confidence: 0.80, stable for 2.13s)
+2026-03-17 03:08:28,576 - INFO - [Frame 74] Predicted: H (confidence: 0.80, stable for 2.24s)
+2026-03-17 03:08:28,672 - INFO - [Frame 75] Predicted: H (confidence: 0.73, stable for 2.34s)
+2026-03-17 03:08:29,807 - INFO - [Frame 106] Predicted: Unknown (confidence: 0.49, stable for 1.00s)
+2026-03-17 03:08:29,902 - INFO - [Frame 107] Predicted: Unknown (confidence: 0.47, stable for 1.09s)
+2026-03-17 03:08:30,002 - INFO - [Frame 108] Predicted: Unknown (confidence: 0.60, stable for 1.18s)
+2026-03-17 03:08:30,107 - INFO - [Frame 109] Predicted: del (confidence: 0.70, stable for 1.29s)
+2026-03-17 03:08:30,226 - INFO - [Frame 110] Predicted: del (confidence: 0.66, stable for 1.40s)
+2026-03-17 03:08:30,327 - INFO - [Frame 111] Predicted: del (confidence: 0.61, stable for 1.51s)
+2026-03-17 03:08:30,436 - INFO - [Frame 112] Predicted: del (confidence: 0.61, stable for 1.62s)
+2026-03-17 03:08:30,554 - INFO - [Frame 113] Predicted: del (confidence: 0.50, stable for 1.73s)
+2026-03-17 03:08:30,657 - INFO - [Frame 114] Predicted: del (confidence: 0.69, stable for 1.84s)
+2026-03-17 03:08:30,760 - INFO - [Frame 115] Predicted: del (confidence: 0.63, stable for 1.94s)
+2026-03-17 03:08:30,855 - INFO - [Frame 116] Predicted: del (confidence: 0.67, stable for 2.04s)
+2026-03-17 03:08:30,965 - INFO - [Frame 117] Predicted: del (confidence: 0.59, stable for 2.15s)
+2026-03-17 03:08:31,081 - INFO - [Frame 118] Predicted: del (confidence: 0.47, stable for 2.26s)
+2026-03-17 03:08:31,187 - INFO - [Frame 119] Predicted: del (confidence: 0.43, stable for 2.37s)
+2026-03-17 03:08:31,292 - INFO - [Frame 120] Predicted: Unknown (confidence: 0.43, stable for 2.48s)
+2026-03-17 03:08:31,401 - INFO - [Frame 121] Predicted: Unknown (confidence: 0.46, stable for 2.59s)
+2026-03-17 03:08:31,513 - INFO - [Frame 122] Predicted: Unknown (confidence: 0.54, stable for 2.69s)
+2026-03-17 03:08:31,625 - INFO - [Frame 123] Predicted: Unknown (confidence: 0.65, stable for 2.80s)
+2026-03-17 03:08:31,727 - INFO - [Frame 124] Predicted: del (confidence: 0.56, stable for 2.91s)
+2026-03-17 03:08:31,836 - INFO - [Frame 125] Predicted: del (confidence: 0.46, stable for 3.02s)
+2026-03-17 03:08:31,958 - INFO - [Frame 126] Predicted: del (confidence: 0.50, stable for 3.13s)
+2026-03-17 03:08:32,063 - INFO - [Frame 127] Predicted: del (confidence: 0.60, stable for 3.25s)
+2026-03-17 03:08:32,160 - INFO - [Frame 128] Predicted: del (confidence: 0.54, stable for 3.34s)
+2026-03-17 03:08:32,263 - INFO - [Frame 129] Predicted: del (confidence: 0.53, stable for 3.45s)
+2026-03-17 03:08:32,364 - INFO - [Frame 130] Predicted: del (confidence: 0.55, stable for 3.55s)
+2026-03-17 03:08:32,469 - INFO - [Frame 131] Predicted: del (confidence: 0.55, stable for 3.66s)
+2026-03-17 03:08:32,577 - INFO - [Frame 132] Predicted: del (confidence: 0.46, stable for 3.76s)
+2026-03-17 03:08:32,674 - INFO - [Frame 133] Predicted: del (confidence: 0.45, stable for 3.86s)
+2026-03-17 03:08:32,785 - INFO - [Frame 134] Predicted: del (confidence: 0.52, stable for 3.97s)
+2026-03-17 03:08:32,891 - INFO - [Frame 135] Predicted: Unknown (confidence: 0.49, stable for 4.08s)
+2026-03-17 03:08:33,000 - INFO - [Frame 136] Predicted: Unknown (confidence: 0.45, stable for 4.19s)
+2026-03-17 03:08:33,110 - INFO - [Frame 137] Predicted: Unknown (confidence: 0.56, stable for 4.30s)
+2026-03-17 03:08:33,219 - INFO - [Frame 138] Predicted: Unknown (confidence: 0.50, stable for 4.40s)
+2026-03-17 03:08:33,329 - INFO - [Frame 139] Predicted: Unknown (confidence: 0.45, stable for 4.51s)
+2026-03-17 03:08:33,437 - INFO - [Frame 140] Predicted: Unknown (confidence: 0.60, stable for 4.62s)
+2026-03-17 03:08:33,552 - INFO - [Frame 141] Predicted: H (confidence: 0.55, stable for 4.73s)
+2026-03-17 03:08:33,654 - INFO - [Frame 142] Predicted: Unknown (confidence: 0.44, stable for 4.84s)
+2026-03-17 03:08:33,761 - INFO - [Frame 143] Predicted: H (confidence: 0.54, stable for 4.94s)
+2026-03-17 03:08:33,868 - INFO - [Frame 144] Predicted: H (confidence: 0.52, stable for 5.05s)
+2026-03-17 03:08:33,971 - INFO - [Frame 145] Predicted: H (confidence: 0.55, stable for 5.16s)
+2026-03-17 03:08:34,072 - INFO - [Frame 146] Predicted: H (confidence: 0.44, stable for 5.26s)
+2026-03-17 03:08:34,179 - INFO - [Frame 147] Predicted: H (confidence: 0.46, stable for 5.36s)
+2026-03-17 03:08:34,287 - INFO - [Frame 148] Predicted: Unknown (confidence: 0.44, stable for 5.47s)
+2026-03-17 03:08:34,396 - INFO - [Frame 149] Predicted: Unknown (confidence: 0.49, stable for 5.58s)
+2026-03-17 03:08:34,494 - INFO - [Frame 150] Predicted: Unknown (confidence: 0.45, stable for 5.68s)
+2026-03-17 03:08:34,608 - INFO - [Frame 151] Predicted: Unknown (confidence: 0.64, stable for 5.79s)
+2026-03-17 03:08:34,712 - INFO - [Frame 152] Predicted: Unknown (confidence: 0.64, stable for 5.90s)
+2026-03-17 03:08:34,817 - INFO - [Frame 153] Predicted: H (confidence: 0.65, stable for 6.00s)
+2026-03-17 03:08:34,918 - INFO - [Frame 154] Predicted: H (confidence: 0.70, stable for 6.10s)
+2026-03-17 03:08:35,025 - INFO - [Frame 155] Predicted: H (confidence: 0.64, stable for 6.21s)
+2026-03-17 03:08:35,135 - INFO - [Frame 156] Predicted: H (confidence: 0.46, stable for 6.32s)
+2026-03-17 03:08:36,256 - INFO - [Frame 187] Predicted: H (confidence: 0.65, stable for 1.00s)
+2026-03-17 03:08:36,367 - INFO - [Frame 188] Predicted: H (confidence: 0.67, stable for 1.13s)
+2026-03-17 03:08:36,474 - INFO - [Frame 189] Predicted: H (confidence: 0.75, stable for 1.23s)
+2026-03-17 03:08:36,583 - INFO - [Frame 190] Predicted: H (confidence: 0.53, stable for 1.34s)
+2026-03-17 03:08:36,687 - INFO - [Frame 191] Predicted: H (confidence: 0.52, stable for 1.44s)
+2026-03-17 03:08:36,806 - INFO - [Frame 192] Predicted: H (confidence: 0.54, stable for 1.56s)
+2026-03-17 03:08:36,908 - INFO - [Frame 193] Predicted: H (confidence: 0.51, stable for 1.66s)
+2026-03-17 03:08:37,016 - INFO - [Frame 194] Predicted: H (confidence: 0.54, stable for 1.77s)
+2026-03-17 03:08:37,124 - INFO - [Frame 195] Predicted: H (confidence: 0.49, stable for 1.88s)
+2026-03-17 03:08:37,233 - INFO - [Frame 196] Predicted: del (confidence: 0.49, stable for 1.99s)
+2026-03-17 03:08:37,338 - INFO - [Frame 197] Predicted: H (confidence: 0.58, stable for 2.10s)
+2026-03-17 03:08:37,449 - INFO - [Frame 198] Predicted: Unknown (confidence: 0.50, stable for 2.20s)
+2026-03-17 03:08:37,561 - INFO - [Frame 199] Predicted: Unknown (confidence: 0.61, stable for 2.31s)
+2026-03-17 03:08:37,666 - INFO - [Frame 200] Predicted: H (confidence: 0.71, stable for 2.42s)
+2026-03-17 03:08:37,773 - INFO - [Frame 201] Predicted: H (confidence: 0.70, stable for 2.53s)
+2026-03-17 03:08:37,871 - INFO - [Frame 202] Predicted: H (confidence: 0.59, stable for 2.63s)
+2026-03-17 03:08:37,983 - INFO - [Frame 203] Predicted: H (confidence: 0.72, stable for 2.74s)
+2026-03-17 03:08:38,093 - INFO - [Frame 204] Predicted: H (confidence: 0.48, stable for 2.85s)
+2026-03-17 03:08:38,210 - INFO - [Frame 205] Predicted: H (confidence: 0.54, stable for 2.96s)
+2026-03-17 03:08:38,307 - INFO - [Frame 206] Predicted: H (confidence: 0.66, stable for 3.06s)
+2026-03-17 03:08:38,416 - INFO - [Frame 207] Predicted: H (confidence: 0.59, stable for 3.17s)
+2026-03-17 03:08:38,528 - INFO - [Frame 208] Predicted: H (confidence: 0.68, stable for 3.28s)
+2026-03-17 03:08:38,633 - INFO - [Frame 209] Predicted: H (confidence: 0.68, stable for 3.39s)
+2026-03-17 03:08:38,745 - INFO - [Frame 210] Predicted: H (confidence: 0.63, stable for 3.50s)
+2026-03-17 03:08:38,858 - INFO - [Frame 211] Predicted: H (confidence: 0.54, stable for 3.61s)
+2026-03-17 03:08:38,963 - INFO - [Frame 212] Predicted: H (confidence: 0.63, stable for 3.72s)
+2026-03-17 03:08:39,066 - INFO - [Frame 213] Predicted: H (confidence: 0.59, stable for 3.83s)
+2026-03-17 03:08:39,168 - INFO - [Frame 214] Predicted: del (confidence: 0.71, stable for 3.92s)
+2026-03-17 03:08:39,283 - INFO - [Frame 215] Predicted: del (confidence: 0.60, stable for 4.03s)
+2026-03-17 03:08:39,388 - INFO - [Frame 216] Predicted: del (confidence: 0.52, stable for 4.14s)
+2026-03-17 03:08:39,492 - INFO - [Frame 217] Predicted: del (confidence: 0.57, stable for 4.25s)
+2026-03-17 03:08:39,606 - INFO - [Frame 218] Predicted: del (confidence: 0.54, stable for 4.36s)
+2026-03-17 03:08:39,718 - INFO - [Frame 219] Predicted: del (confidence: 0.49, stable for 4.47s)
+2026-03-17 03:08:39,815 - INFO - [Frame 220] Predicted: H (confidence: 0.50, stable for 4.58s)
+2026-03-17 03:08:39,924 - INFO - [Frame 221] Predicted: H (confidence: 0.57, stable for 4.68s)
+2026-03-17 03:08:40,031 - INFO - [Frame 222] Predicted: H (confidence: 0.44, stable for 4.79s)
+2026-03-17 03:08:40,149 - INFO - [Frame 223] Predicted: Unknown (confidence: 0.48, stable for 4.90s)
+2026-03-17 03:08:40,253 - INFO - [Frame 224] Predicted: del (confidence: 0.67, stable for 5.01s)
+2026-03-17 03:08:40,359 - INFO - [Frame 225] Predicted: del (confidence: 0.55, stable for 5.11s)
+2026-03-17 03:08:40,462 - INFO - [Frame 226] Predicted: del (confidence: 0.60, stable for 5.22s)
+2026-03-17 03:08:40,556 - INFO - [Frame 227] Predicted: del (confidence: 0.55, stable for 5.32s)
+2026-03-17 03:08:40,664 - INFO - [Frame 228] Predicted: del (confidence: 0.70, stable for 5.42s)
+2026-03-17 03:08:40,763 - INFO - [Frame 229] Predicted: del (confidence: 0.69, stable for 5.52s)
+2026-03-17 03:08:40,870 - INFO - [Frame 230] Predicted: del (confidence: 0.86, stable for 5.63s)
+2026-03-17 03:08:40,986 - INFO - [Frame 231] Predicted: del (confidence: 0.96, stable for 5.74s)
+2026-03-17 03:08:41,087 - INFO - [Frame 232] Predicted: del (confidence: 0.88, stable for 5.85s)
+2026-03-17 03:08:41,195 - INFO - [Frame 233] Predicted: del (confidence: 0.80, stable for 5.95s)
+2026-03-17 03:08:41,300 - INFO - [Frame 234] Predicted: del (confidence: 0.90, stable for 6.05s)
+2026-03-17 03:08:41,408 - INFO - [Frame 235] Predicted: del (confidence: 0.64, stable for 6.16s)
+2026-03-17 03:08:41,508 - INFO - [Frame 236] Predicted: del (confidence: 0.48, stable for 6.26s)
+2026-03-17 03:08:41,619 - INFO - [Frame 237] Predicted: del (confidence: 0.75, stable for 6.37s)
+2026-03-17 03:08:41,721 - INFO - [Frame 238] Predicted: del (confidence: 0.61, stable for 6.48s)
+2026-03-17 03:08:41,827 - INFO - [Frame 239] Predicted: del (confidence: 0.58, stable for 6.59s)
+2026-03-17 03:08:41,924 - INFO - [Frame 240] Predicted: del (confidence: 0.71, stable for 6.68s)
+2026-03-17 03:08:42,031 - INFO - [Frame 241] Predicted: del (confidence: 0.56, stable for 6.79s)
+2026-03-17 03:08:42,137 - INFO - [Frame 242] Predicted: del (confidence: 0.58, stable for 6.90s)
+2026-03-17 03:08:42,233 - INFO - [Frame 243] Predicted: del (confidence: 0.53, stable for 6.99s)
+2026-03-17 03:08:42,338 - INFO - [Frame 244] Predicted: H (confidence: 0.46, stable for 7.10s)
+2026-03-17 03:08:43,441 - INFO - [Frame 274] Predicted: H (confidence: 0.65, stable for 1.00s)
+2026-03-17 03:08:43,542 - INFO - [Frame 275] Predicted: H (confidence: 0.71, stable for 1.09s)
+2026-03-17 03:08:43,650 - INFO - [Frame 276] Predicted: H (confidence: 0.71, stable for 1.21s)
+2026-03-17 03:08:43,769 - INFO - [Frame 277] Predicted: H (confidence: 0.63, stable for 1.31s)
+2026-03-17 03:08:43,871 - INFO - [Frame 278] Predicted: H (confidence: 0.70, stable for 1.42s)
+2026-03-17 03:08:43,987 - INFO - [Frame 279] Predicted: H (confidence: 0.78, stable for 1.53s)
+2026-03-17 03:08:44,088 - INFO - [Frame 280] Predicted: H (confidence: 0.77, stable for 1.64s)
+2026-03-17 03:08:44,193 - INFO - [Frame 281] Predicted: H (confidence: 0.67, stable for 1.75s)
+2026-03-17 03:08:44,285 - INFO - [Frame 282] Predicted: H (confidence: 0.64, stable for 1.84s)
+2026-03-17 03:08:44,385 - INFO - [Frame 283] Predicted: H (confidence: 0.80, stable for 1.94s)
+2026-03-17 03:08:44,492 - INFO - [Frame 284] Predicted: H (confidence: 0.68, stable for 2.04s)
+2026-03-17 03:08:44,603 - INFO - [Frame 285] Predicted: H (confidence: 0.84, stable for 2.15s)
+2026-03-17 03:08:44,717 - INFO - [Frame 286] Predicted: H (confidence: 0.83, stable for 2.26s)
+2026-03-17 03:08:44,827 - INFO - [Frame 287] Predicted: H (confidence: 0.81, stable for 2.38s)
+2026-03-17 03:08:44,927 - INFO - [Frame 288] Predicted: H (confidence: 0.84, stable for 2.48s)
+2026-03-17 03:08:45,039 - INFO - [Frame 289] Predicted: H (confidence: 0.77, stable for 2.59s)
+2026-03-17 03:08:45,151 - INFO - [Frame 290] Predicted: H (confidence: 0.68, stable for 2.70s)
+2026-03-17 03:08:45,255 - INFO - [Frame 291] Predicted: H (confidence: 0.79, stable for 2.80s)
+2026-03-17 03:08:45,360 - INFO - [Frame 292] Predicted: H (confidence: 0.77, stable for 2.91s)
+2026-03-17 03:08:45,456 - INFO - [Frame 293] Predicted: H (confidence: 0.85, stable for 3.01s)
+2026-03-17 03:08:45,570 - INFO - [Frame 294] Predicted: H (confidence: 0.76, stable for 3.12s)
+2026-03-17 03:08:45,674 - INFO - [Frame 295] Predicted: H (confidence: 0.80, stable for 3.22s)
+2026-03-17 03:08:45,784 - INFO - [Frame 296] Predicted: H (confidence: 0.72, stable for 3.33s)
+2026-03-17 03:08:45,897 - INFO - [Frame 297] Predicted: H (confidence: 0.85, stable for 3.44s)
+2026-03-17 03:08:46,001 - INFO - [Frame 298] Predicted: H (confidence: 0.87, stable for 3.55s)
+2026-03-17 03:08:46,118 - INFO - [Frame 299] Predicted: H (confidence: 0.92, stable for 3.66s)
+2026-03-17 03:08:46,219 - INFO - [Frame 300] Predicted: H (confidence: 0.89, stable for 3.77s)
+2026-03-17 03:08:47,332 - INFO - [Frame 331] Predicted: H (confidence: 0.73, stable for 1.01s)
+2026-03-17 03:08:47,431 - INFO - [Frame 332] Predicted: H (confidence: 0.78, stable for 1.10s)
+2026-03-17 03:08:47,540 - INFO - [Frame 333] Predicted: H (confidence: 0.67, stable for 1.21s)
+2026-03-17 03:08:47,648 - INFO - [Frame 334] Predicted: H (confidence: 0.68, stable for 1.32s)
+2026-03-17 03:08:47,764 - INFO - [Frame 335] Predicted: H (confidence: 0.79, stable for 1.43s)
+2026-03-17 03:08:47,867 - INFO - [Frame 336] Predicted: H (confidence: 0.79, stable for 1.54s)
+2026-03-17 03:08:47,972 - INFO - [Frame 337] Predicted: H (confidence: 0.76, stable for 1.65s)
+2026-03-17 03:08:48,069 - INFO - [Frame 338] Predicted: H (confidence: 0.63, stable for 1.74s)
+2026-03-17 03:08:48,183 - INFO - [Frame 339] Predicted: H (confidence: 0.68, stable for 1.85s)
+2026-03-17 03:08:48,282 - INFO - [Frame 340] Predicted: H (confidence: 0.81, stable for 1.96s)
+2026-03-17 03:08:48,380 - INFO - [Frame 341] Predicted: H (confidence: 0.64, stable for 2.05s)
+2026-03-17 03:08:48,489 - INFO - [Frame 342] Predicted: H (confidence: 0.80, stable for 2.16s)
+2026-03-17 03:08:48,588 - INFO - [Frame 343] Predicted: H (confidence: 0.66, stable for 2.27s)
+2026-03-17 03:08:48,681 - INFO - [Frame 344] Predicted: H (confidence: 0.76, stable for 2.36s)
+2026-03-17 03:08:48,777 - INFO - [Frame 345] Predicted: H (confidence: 0.67, stable for 2.45s)
+2026-03-17 03:08:48,890 - INFO - [Frame 346] Predicted: H (confidence: 0.74, stable for 2.56s)
+2026-03-17 03:08:48,997 - INFO - [Frame 347] Predicted: H (confidence: 0.85, stable for 2.67s)
+2026-03-17 03:08:49,099 - INFO - [Frame 348] Predicted: H (confidence: 0.85, stable for 2.78s)
+2026-03-17 03:08:49,201 - INFO - [Frame 349] Predicted: H (confidence: 0.81, stable for 2.87s)
+2026-03-17 03:08:49,303 - INFO - [Frame 350] Predicted: H (confidence: 0.60, stable for 2.98s)
+2026-03-17 03:08:49,403 - INFO - [Frame 351] Predicted: H (confidence: 0.77, stable for 3.07s)
+2026-03-17 03:08:49,508 - INFO - [Frame 352] Predicted: H (confidence: 0.63, stable for 3.18s)
+2026-03-17 03:08:49,619 - INFO - [Frame 353] Predicted: H (confidence: 0.75, stable for 3.29s)
+2026-03-17 03:08:49,720 - INFO - [Frame 354] Predicted: H (confidence: 0.68, stable for 3.40s)
+2026-03-17 03:08:49,822 - INFO - [Frame 355] Predicted: H (confidence: 0.74, stable for 3.49s)
+2026-03-17 03:08:49,928 - INFO - [Frame 356] Predicted: H (confidence: 0.72, stable for 3.60s)
+2026-03-17 03:08:50,034 - INFO - [Frame 357] Predicted: H (confidence: 0.65, stable for 3.71s)
+2026-03-17 03:08:50,140 - INFO - [Frame 358] Predicted: H (confidence: 0.71, stable for 3.82s)
+2026-03-17 03:08:50,245 - INFO - [Frame 359] Predicted: H (confidence: 0.60, stable for 3.91s)
+2026-03-17 03:08:50,354 - INFO - [Frame 360] Predicted: H (confidence: 0.75, stable for 4.02s)
+2026-03-17 03:08:50,462 - INFO - [Frame 361] Predicted: H (confidence: 0.73, stable for 4.13s)
+2026-03-17 03:08:50,567 - INFO - [Frame 362] Predicted: H (confidence: 0.66, stable for 4.24s)
+2026-03-17 03:08:50,675 - INFO - [Frame 363] Predicted: H (confidence: 0.80, stable for 4.35s)
+2026-03-17 03:08:50,771 - INFO - [Frame 364] Predicted: H (confidence: 0.75, stable for 4.44s)
+2026-03-17 03:08:50,873 - INFO - [Frame 365] Predicted: H (confidence: 0.67, stable for 4.54s)
+2026-03-17 03:08:50,983 - INFO - [Frame 366] Predicted: H (confidence: 0.78, stable for 4.65s)
+2026-03-17 03:08:51,090 - INFO - [Frame 367] Predicted: H (confidence: 0.80, stable for 4.75s)
+2026-03-17 03:08:51,194 - INFO - [Frame 368] Predicted: H (confidence: 0.74, stable for 4.86s)
+2026-03-17 03:08:51,300 - INFO - [Frame 369] Predicted: H (confidence: 0.63, stable for 4.97s)
+2026-03-17 03:08:51,407 - INFO - [Frame 370] Predicted: H (confidence: 0.84, stable for 5.08s)
+2026-03-17 03:08:51,516 - INFO - [Frame 371] Predicted: H (confidence: 0.79, stable for 5.19s)
+2026-03-17 03:08:51,620 - INFO - [Frame 372] Predicted: H (confidence: 0.58, stable for 5.29s)
+2026-03-17 03:08:51,733 - INFO - [Frame 373] Predicted: H (confidence: 0.73, stable for 5.40s)
+2026-03-17 03:08:51,842 - INFO - [Frame 374] Predicted: H (confidence: 0.68, stable for 5.51s)
+2026-03-17 03:08:51,951 - INFO - [Frame 375] Predicted: H (confidence: 0.66, stable for 5.62s)
+2026-03-17 03:08:52,061 - INFO - [Frame 376] Predicted: H (confidence: 0.73, stable for 5.73s)
+2026-03-17 03:08:52,170 - INFO - [Frame 377] Predicted: H (confidence: 0.75, stable for 5.84s)
+2026-03-17 03:08:52,277 - INFO - [Frame 378] Predicted: H (confidence: 0.69, stable for 5.95s)
+2026-03-17 03:08:52,385 - INFO - [Frame 379] Predicted: H (confidence: 0.73, stable for 6.06s)
+2026-03-17 03:08:52,493 - INFO - [Frame 380] Predicted: H (confidence: 0.72, stable for 6.17s)
+2026-03-17 03:08:52,609 - INFO - [Frame 381] Predicted: H (confidence: 0.77, stable for 6.28s)
+2026-03-17 03:08:52,722 - INFO - [Frame 382] Predicted: H (confidence: 0.76, stable for 6.39s)
+2026-03-17 03:08:52,818 - INFO - [Frame 383] Predicted: H (confidence: 0.82, stable for 6.49s)
+2026-03-17 03:08:52,918 - INFO - [Frame 384] Predicted: H (confidence: 0.77, stable for 6.59s)
+2026-03-17 03:08:53,027 - INFO - [Frame 385] Predicted: H (confidence: 0.71, stable for 6.70s)
+2026-03-17 03:08:53,130 - INFO - [Frame 386] Predicted: H (confidence: 0.65, stable for 6.80s)
+2026-03-17 03:08:53,235 - INFO - [Frame 387] Predicted: H (confidence: 0.82, stable for 6.92s)
+2026-03-17 03:08:53,332 - INFO - [Frame 388] Predicted: H (confidence: 0.61, stable for 7.01s)
+2026-03-17 03:08:53,444 - INFO - [Frame 389] Predicted: H (confidence: 0.79, stable for 7.11s)
+2026-03-17 03:08:53,548 - INFO - [Frame 390] Predicted: H (confidence: 0.70, stable for 7.22s)
+2026-03-17 03:08:53,654 - INFO - [Frame 391] Predicted: H (confidence: 0.79, stable for 7.33s)
+2026-03-17 03:08:53,750 - INFO - [Frame 392] Predicted: H (confidence: 0.68, stable for 7.43s)
+2026-03-17 03:08:53,862 - INFO - [Frame 393] Predicted: H (confidence: 0.86, stable for 7.53s)
+2026-03-17 03:08:53,969 - INFO - [Frame 394] Predicted: H (confidence: 0.79, stable for 7.64s)
+2026-03-17 03:08:54,082 - INFO - [Frame 395] Predicted: H (confidence: 0.79, stable for 7.75s)
+2026-03-17 03:08:54,187 - INFO - [Frame 396] Predicted: H (confidence: 0.78, stable for 7.86s)
+2026-03-17 03:08:54,308 - INFO - [Frame 397] Predicted: H (confidence: 0.83, stable for 7.97s)
+2026-03-17 03:08:54,410 - INFO - [Frame 398] Predicted: H (confidence: 0.56, stable for 8.08s)
+2026-03-17 03:08:54,520 - INFO - [Frame 399] Predicted: H (confidence: 0.79, stable for 8.19s)
+2026-03-17 03:08:54,622 - INFO - [Frame 400] Predicted: H (confidence: 0.61, stable for 8.29s)
+2026-03-17 03:08:54,731 - INFO - [Frame 401] Predicted: H (confidence: 0.72, stable for 8.40s)
+2026-03-17 03:08:54,839 - INFO - [Frame 402] Predicted: H (confidence: 0.58, stable for 8.51s)
+2026-03-17 03:08:54,937 - INFO - [Frame 403] Predicted: H (confidence: 0.73, stable for 8.61s)
+2026-03-17 03:08:55,046 - INFO - [Frame 404] Predicted: H (confidence: 0.79, stable for 8.72s)
+2026-03-17 03:08:55,156 - INFO - [Frame 405] Predicted: H (confidence: 0.91, stable for 8.82s)
+2026-03-17 03:08:55,258 - INFO - [Frame 406] Predicted: H (confidence: 0.77, stable for 8.93s)
+2026-03-17 03:08:55,366 - INFO - [Frame 407] Predicted: H (confidence: 0.72, stable for 9.04s)
+2026-03-17 03:08:55,482 - INFO - [Frame 408] Predicted: H (confidence: 0.86, stable for 9.15s)
+2026-03-17 03:08:55,577 - INFO - [Frame 409] Predicted: H (confidence: 0.79, stable for 9.25s)
+2026-03-17 03:08:55,680 - INFO - [Frame 410] Predicted: H (confidence: 0.75, stable for 9.35s)
+2026-03-17 03:08:55,786 - INFO - [Frame 411] Predicted: H (confidence: 0.84, stable for 9.46s)
+2026-03-17 03:08:55,897 - INFO - [Frame 412] Predicted: H (confidence: 0.79, stable for 9.57s)
+2026-03-17 03:08:56,010 - INFO - [Frame 413] Predicted: H (confidence: 0.80, stable for 9.68s)
+2026-03-17 03:08:56,114 - INFO - [Frame 414] Predicted: H (confidence: 0.72, stable for 9.79s)
+2026-03-17 03:08:56,221 - INFO - [Frame 415] Predicted: H (confidence: 0.65, stable for 9.89s)
+2026-03-17 03:08:56,333 - INFO - [Frame 416] Predicted: H (confidence: 0.78, stable for 10.00s)
+2026-03-17 03:08:56,439 - INFO - [Frame 417] Predicted: H (confidence: 0.72, stable for 10.11s)
+2026-03-17 03:08:56,549 - INFO - [Frame 418] Predicted: H (confidence: 0.66, stable for 10.22s)
+2026-03-17 03:08:56,656 - INFO - [Frame 419] Predicted: H (confidence: 0.72, stable for 10.33s)
+2026-03-17 03:08:56,765 - INFO - [Frame 420] Predicted: H (confidence: 0.67, stable for 10.44s)
+2026-03-17 03:08:56,888 - INFO - [Frame 421] Predicted: H (confidence: 0.67, stable for 10.55s)
+2026-03-17 03:08:56,988 - INFO - [Frame 422] Predicted: H (confidence: 0.70, stable for 10.66s)
+2026-03-17 03:08:57,097 - INFO - [Frame 423] Predicted: H (confidence: 0.69, stable for 10.77s)
+2026-03-17 03:08:57,208 - INFO - [Frame 424] Predicted: H (confidence: 0.69, stable for 10.87s)
+2026-03-17 03:08:57,326 - INFO - [Frame 425] Predicted: H (confidence: 0.69, stable for 10.99s)
+2026-03-17 03:08:57,441 - INFO - [Frame 426] Predicted: H (confidence: 0.67, stable for 11.11s)
+2026-03-17 03:08:57,553 - INFO - [Frame 427] Predicted: H (confidence: 0.82, stable for 11.22s)
+2026-03-17 03:08:57,655 - INFO - [Frame 428] Predicted: H (confidence: 0.37, stable for 11.32s)
+2026-03-17 03:08:57,774 - INFO - [Frame 429] Predicted: H (confidence: 0.60, stable for 11.44s)
+2026-03-17 03:08:57,875 - INFO - [Frame 430] Predicted: H (confidence: 0.41, stable for 11.54s)
+2026-03-17 03:08:57,982 - INFO - [Frame 431] Predicted: Unknown (confidence: 0.42, stable for 11.66s)
+2026-03-17 03:08:58,091 - INFO - [Frame 432] Predicted: Unknown (confidence: 0.47, stable for 11.76s)
+2026-03-17 03:08:58,205 - INFO - [Frame 433] Predicted: Unknown (confidence: 0.78, stable for 11.87s)
+2026-03-17 03:08:58,316 - INFO - [Frame 434] Predicted: Unknown (confidence: 0.70, stable for 11.98s)
+2026-03-17 03:08:58,425 - INFO - [Frame 435] Predicted: H (confidence: 0.90, stable for 12.09s)
+2026-03-17 03:09:00,163 - INFO - [Frame 485] Predicted: H (confidence: 0.86, stable for 1.02s)
+2026-03-17 03:09:00,278 - INFO - [Frame 486] Predicted: H (confidence: 0.83, stable for 1.13s)
+2026-03-17 03:09:00,390 - INFO - [Frame 487] Predicted: H (confidence: 0.92, stable for 1.24s)
+2026-03-17 03:09:00,496 - INFO - [Frame 488] Predicted: H (confidence: 0.86, stable for 1.35s)
+2026-03-17 03:09:00,604 - INFO - [Frame 489] Predicted: H (confidence: 0.88, stable for 1.46s)
+2026-03-17 03:09:00,714 - INFO - [Frame 490] Predicted: H (confidence: 0.87, stable for 1.57s)
+2026-03-17 03:09:00,823 - INFO - [Frame 491] Predicted: H (confidence: 0.78, stable for 1.67s)
+2026-03-17 03:09:00,928 - INFO - [Frame 492] Predicted: H (confidence: 0.87, stable for 1.78s)
+2026-03-17 03:09:01,035 - INFO - [Frame 493] Predicted: H (confidence: 0.80, stable for 1.89s)
+2026-03-17 03:09:01,147 - INFO - [Frame 494] Predicted: H (confidence: 0.76, stable for 2.00s)
+2026-03-17 03:09:01,258 - INFO - [Frame 495] Predicted: H (confidence: 0.81, stable for 2.10s)
+2026-03-17 03:09:01,359 - INFO - [Frame 496] Predicted: H (confidence: 0.89, stable for 2.21s)
+2026-03-17 03:09:01,471 - INFO - [Frame 497] Predicted: H (confidence: 0.81, stable for 2.32s)
+2026-03-17 03:09:01,583 - INFO - [Frame 498] Predicted: H (confidence: 0.85, stable for 2.43s)
+2026-03-17 03:09:01,698 - INFO - [Frame 499] Predicted: H (confidence: 0.82, stable for 2.54s)
+2026-03-17 03:09:01,808 - INFO - [Frame 500] Predicted: H (confidence: 0.81, stable for 2.65s)
+2026-03-17 03:09:02,019 - INFO - [Frame 501] Predicted: H (confidence: 0.89, stable for 2.76s)
+2026-03-17 03:09:02,122 - INFO - [Frame 502] Predicted: H (confidence: 0.92, stable for 2.98s)
+2026-03-17 03:09:02,222 - INFO - [Frame 503] Predicted: H (confidence: 0.87, stable for 3.07s)
+2026-03-17 03:09:02,326 - INFO - [Frame 504] Predicted: H (confidence: 0.80, stable for 3.18s)
+2026-03-17 03:09:02,437 - INFO - [Frame 505] Predicted: H (confidence: 0.84, stable for 3.29s)
+2026-03-17 03:09:02,549 - INFO - [Frame 506] Predicted: H (confidence: 0.77, stable for 3.39s)
+2026-03-17 03:09:02,662 - INFO - [Frame 507] Predicted: H (confidence: 0.84, stable for 3.50s)
+2026-03-17 03:09:03,767 - INFO - [Frame 539] Predicted: H (confidence: 0.79, stable for 1.01s)
+2026-03-17 03:09:03,865 - INFO - [Frame 540] Predicted: H (confidence: 0.87, stable for 1.11s)
+2026-03-17 03:09:03,977 - INFO - [Frame 541] Predicted: H (confidence: 0.88, stable for 1.21s)
+2026-03-17 03:09:04,095 - INFO - [Frame 542] Predicted: H (confidence: 0.78, stable for 1.33s)
+2026-03-17 03:09:04,210 - INFO - [Frame 543] Predicted: H (confidence: 0.80, stable for 1.45s)
+2026-03-17 03:09:04,321 - INFO - [Frame 544] Predicted: H (confidence: 0.87, stable for 1.56s)
+2026-03-17 03:09:04,435 - INFO - [Frame 545] Predicted: H (confidence: 0.87, stable for 1.67s)
+2026-03-17 03:09:04,562 - INFO - [Frame 546] Predicted: H (confidence: 0.90, stable for 1.80s)
+2026-03-17 03:09:04,681 - INFO - [Frame 547] Predicted: H (confidence: 0.85, stable for 1.91s)
+2026-03-17 03:09:04,785 - INFO - [Frame 548] Predicted: H (confidence: 0.74, stable for 2.02s)
+2026-03-17 03:09:04,899 - INFO - [Frame 549] Predicted: H (confidence: 0.83, stable for 2.13s)
+2026-03-17 03:09:05,012 - INFO - [Frame 550] Predicted: H (confidence: 0.74, stable for 2.24s)
+2026-03-17 03:09:05,128 - INFO - [Frame 551] Predicted: H (confidence: 0.86, stable for 2.37s)
+2026-03-17 03:09:05,237 - INFO - [Frame 552] Predicted: H (confidence: 0.84, stable for 2.48s)
+2026-03-17 03:09:05,349 - INFO - [Frame 553] Predicted: H (confidence: 0.82, stable for 2.58s)
+2026-03-17 03:09:05,468 - INFO - [Frame 554] Predicted: H (confidence: 0.75, stable for 2.70s)
+2026-03-17 03:09:05,589 - INFO - [Frame 555] Predicted: H (confidence: 0.44, stable for 2.82s)
+2026-03-17 03:09:05,703 - INFO - [Frame 556] Predicted: H (confidence: 0.73, stable for 2.94s)
+2026-03-17 03:09:05,813 - INFO - [Frame 557] Predicted: H (confidence: 0.67, stable for 3.05s)
+2026-03-17 03:09:05,924 - INFO - [Frame 558] Predicted: H (confidence: 0.52, stable for 3.16s)
+2026-03-17 03:09:06,041 - INFO - [Frame 559] Predicted: H (confidence: 0.53, stable for 3.27s)
+2026-03-17 03:09:06,153 - INFO - [Frame 560] Predicted: H (confidence: 0.68, stable for 3.38s)
+2026-03-17 03:09:06,268 - INFO - [Frame 561] Predicted: H (confidence: 0.68, stable for 3.51s)
+2026-03-17 03:09:06,378 - INFO - [Frame 562] Predicted: H (confidence: 0.51, stable for 3.61s)
+2026-03-17 03:09:06,489 - INFO - [Frame 563] Predicted: H (confidence: 0.53, stable for 3.72s)
+2026-03-17 03:09:06,609 - INFO - [Frame 564] Predicted: H (confidence: 0.62, stable for 3.84s)
+2026-03-17 03:09:06,725 - INFO - [Frame 565] Predicted: H (confidence: 0.87, stable for 3.96s)
+2026-03-17 03:09:06,836 - INFO - [Frame 566] Predicted: H (confidence: 0.70, stable for 4.07s)
+2026-03-17 03:09:06,944 - INFO - [Frame 567] Predicted: H (confidence: 0.80, stable for 4.18s)
+2026-03-17 03:09:07,055 - INFO - [Frame 568] Predicted: H (confidence: 0.83, stable for 4.29s)
+2026-03-17 03:09:07,160 - INFO - [Frame 569] Predicted: H (confidence: 0.80, stable for 4.40s)
+2026-03-17 03:09:07,280 - INFO - [Frame 570] Predicted: H (confidence: 0.87, stable for 4.51s)
+2026-03-17 03:09:07,397 - INFO - [Frame 571] Predicted: H (confidence: 0.85, stable for 4.63s)
+2026-03-17 03:09:07,521 - INFO - [Frame 572] Predicted: H (confidence: 0.90, stable for 4.75s)
+2026-03-17 03:09:07,637 - INFO - [Frame 573] Predicted: H (confidence: 0.94, stable for 4.87s)
+2026-03-17 03:09:07,751 - INFO - [Frame 574] Predicted: H (confidence: 0.86, stable for 4.98s)
+2026-03-17 03:09:07,872 - INFO - [Frame 575] Predicted: H (confidence: 0.82, stable for 5.11s)
+2026-03-17 03:09:07,969 - INFO - [Frame 576] Predicted: H (confidence: 0.76, stable for 5.21s)
+2026-03-17 03:09:08,086 - INFO - [Frame 577] Predicted: H (confidence: 0.89, stable for 5.32s)
+2026-03-17 03:09:08,194 - INFO - [Frame 578] Predicted: H (confidence: 0.91, stable for 5.43s)
+2026-03-17 03:09:09,854 - INFO - [Frame 626] Predicted: H (confidence: 0.77, stable for 1.02s)
+2026-03-17 03:09:09,965 - INFO - [Frame 627] Predicted: H (confidence: 0.84, stable for 1.11s)
+2026-03-17 03:09:10,060 - INFO - [Frame 628] Predicted: H (confidence: 0.86, stable for 1.22s)
+2026-03-17 03:09:10,169 - INFO - [Frame 629] Predicted: H (confidence: 0.87, stable for 1.32s)
+2026-03-17 03:09:10,273 - INFO - [Frame 630] Predicted: H (confidence: 0.83, stable for 1.43s)
+2026-03-17 03:09:10,384 - INFO - [Frame 631] Predicted: H (confidence: 0.90, stable for 1.54s)
+2026-03-17 03:09:10,486 - INFO - [Frame 632] Predicted: H (confidence: 0.90, stable for 1.65s)
+2026-03-17 03:09:10,611 - INFO - [Frame 633] Predicted: H (confidence: 0.86, stable for 1.76s)
+2026-03-17 03:09:10,717 - INFO - [Frame 634] Predicted: H (confidence: 0.89, stable for 1.87s)
+2026-03-17 03:09:10,836 - INFO - [Frame 635] Predicted: H (confidence: 0.87, stable for 1.99s)
+2026-03-17 03:09:10,955 - INFO - [Frame 636] Predicted: H (confidence: 0.86, stable for 2.11s)
+2026-03-17 03:09:11,059 - INFO - [Frame 637] Predicted: H (confidence: 0.86, stable for 2.22s)
+2026-03-17 03:09:11,169 - INFO - [Frame 638] Predicted: H (confidence: 0.91, stable for 2.32s)
+2026-03-17 03:09:11,283 - INFO - [Frame 639] Predicted: H (confidence: 0.93, stable for 2.43s)
+2026-03-17 03:09:11,404 - INFO - [Frame 640] Predicted: H (confidence: 0.89, stable for 2.56s)
+2026-03-17 03:09:11,524 - INFO - [Frame 641] Predicted: H (confidence: 0.92, stable for 2.67s)
+2026-03-17 03:09:11,637 - INFO - [Frame 642] Predicted: H (confidence: 0.87, stable for 2.79s)
+2026-03-17 03:09:11,753 - INFO - [Frame 643] Predicted: H (confidence: 0.92, stable for 2.90s)
+2026-03-17 03:09:11,873 - INFO - [Frame 644] Predicted: H (confidence: 0.92, stable for 3.02s)
+2026-03-17 03:09:11,981 - INFO - [Frame 645] Predicted: H (confidence: 0.94, stable for 3.13s)
+2026-03-17 03:09:12,089 - INFO - [Frame 646] Predicted: H (confidence: 0.87, stable for 3.24s)
+2026-03-17 03:09:12,193 - INFO - [Frame 647] Predicted: H (confidence: 0.89, stable for 3.35s)
+2026-03-17 03:09:12,301 - INFO - [Frame 648] Predicted: H (confidence: 0.83, stable for 3.46s)
+2026-03-17 03:09:13,944 - INFO - [Frame 694] Predicted: H (confidence: 0.51, stable for 1.01s)
+2026-03-17 03:09:14,045 - INFO - [Frame 695] Predicted: H (confidence: 0.48, stable for 1.11s)
+2026-03-17 03:09:14,148 - INFO - [Frame 696] Predicted: Unknown (confidence: 0.50, stable for 1.21s)
+2026-03-17 03:09:14,260 - INFO - [Frame 697] Predicted: Unknown (confidence: 0.48, stable for 1.32s)
+2026-03-17 03:09:14,381 - INFO - [Frame 698] Predicted: Unknown (confidence: 0.44, stable for 1.43s)
+2026-03-17 03:09:14,502 - INFO - [Frame 699] Predicted: Unknown (confidence: 0.44, stable for 1.56s)
+2026-03-17 03:09:14,623 - INFO - [Frame 700] Predicted: Unknown (confidence: 0.43, stable for 1.68s)
+2026-03-17 03:09:14,740 - INFO - [Frame 701] Predicted: Unknown (confidence: 0.52, stable for 1.79s)
+2026-03-17 03:09:14,851 - INFO - [Frame 702] Predicted: Unknown (confidence: 0.48, stable for 1.91s)
+2026-03-17 03:09:14,956 - INFO - [Frame 703] Predicted: Unknown (confidence: 0.56, stable for 2.02s)
+2026-03-17 03:09:15,069 - INFO - [Frame 704] Predicted: Unknown (confidence: 0.46, stable for 2.13s)
+2026-03-17 03:09:16,200 - INFO - [Frame 735] Predicted: H (confidence: 0.51, stable for 1.02s)
+2026-03-17 03:09:16,315 - INFO - [Frame 736] Predicted: H (confidence: 0.53, stable for 1.13s)
+2026-03-17 03:09:16,425 - INFO - [Frame 737] Predicted: H (confidence: 0.63, stable for 1.24s)
+2026-03-17 03:09:16,539 - INFO - [Frame 738] Predicted: H (confidence: 0.64, stable for 1.35s)
+2026-03-17 03:09:16,641 - INFO - [Frame 739] Predicted: H (confidence: 0.70, stable for 1.46s)
+2026-03-17 03:09:16,752 - INFO - [Frame 740] Predicted: H (confidence: 0.57, stable for 1.57s)
+2026-03-17 03:09:16,868 - INFO - [Frame 741] Predicted: H (confidence: 0.57, stable for 1.68s)
+2026-03-17 03:09:16,989 - INFO - [Frame 742] Predicted: H (confidence: 0.55, stable for 1.80s)
+2026-03-17 03:09:17,108 - INFO - [Frame 743] Predicted: H (confidence: 0.48, stable for 1.92s)
+2026-03-17 03:09:17,214 - INFO - [Frame 744] Predicted: H (confidence: 0.60, stable for 2.03s)
+2026-03-17 03:09:17,330 - INFO - [Frame 745] Predicted: H (confidence: 0.64, stable for 2.14s)
+2026-03-17 03:09:17,457 - INFO - [Frame 746] Predicted: H (confidence: 0.48, stable for 2.27s)
+2026-03-17 03:09:17,570 - INFO - [Frame 747] Predicted: H (confidence: 0.60, stable for 2.39s)
+2026-03-17 03:09:17,690 - INFO - [Frame 748] Predicted: H (confidence: 0.70, stable for 2.50s)
+2026-03-17 03:09:17,810 - INFO - [Frame 749] Predicted: H (confidence: 0.66, stable for 2.62s)
+2026-03-17 03:09:17,924 - INFO - [Frame 750] Predicted: H (confidence: 0.67, stable for 2.73s)
+2026-03-17 03:09:18,046 - INFO - [Frame 751] Predicted: H (confidence: 0.63, stable for 2.86s)
+2026-03-17 03:09:18,155 - INFO - [Frame 752] Predicted: H (confidence: 0.68, stable for 2.97s)
+2026-03-17 03:09:18,282 - INFO - [Frame 753] Predicted: H (confidence: 0.72, stable for 3.08s)
+2026-03-17 03:09:18,415 - INFO - [Frame 754] Predicted: H (confidence: 0.75, stable for 3.22s)
+2026-03-17 03:09:18,533 - INFO - [Frame 755] Predicted: H (confidence: 0.59, stable for 3.34s)
+2026-03-17 03:09:18,652 - INFO - [Frame 756] Predicted: H (confidence: 0.64, stable for 3.47s)
+2026-03-17 03:09:18,771 - INFO - [Frame 757] Predicted: H (confidence: 0.51, stable for 3.58s)
+2026-03-17 03:09:19,946 - INFO - [Frame 787] Predicted: H (confidence: 0.50, stable for 1.01s)
+2026-03-17 03:09:20,053 - INFO - [Frame 788] Predicted: H (confidence: 0.41, stable for 1.11s)
+2026-03-17 03:09:20,166 - INFO - [Frame 789] Predicted: Unknown (confidence: 0.37, stable for 1.22s)
+2026-03-17 03:09:20,282 - INFO - [Frame 790] Predicted: Unknown (confidence: 0.37, stable for 1.33s)
+2026-03-17 03:09:20,400 - INFO - [Frame 791] Predicted: Unknown (confidence: 0.34, stable for 1.45s)
+2026-03-17 03:09:20,509 - INFO - [Frame 792] Predicted: Unknown (confidence: 0.47, stable for 1.56s)
+2026-03-17 03:09:20,619 - INFO - [Frame 793] Predicted: Unknown (confidence: 0.53, stable for 1.67s)
+2026-03-17 03:09:21,733 - INFO - [Frame 823] Predicted: Unknown (confidence: 0.35, stable for 1.01s)
+2026-03-17 03:09:21,847 - INFO - [Frame 824] Predicted: Unknown (confidence: 0.34, stable for 1.12s)
+2026-03-17 03:09:21,958 - INFO - [Frame 825] Predicted: Unknown (confidence: 0.43, stable for 1.23s)
+2026-03-17 03:09:22,064 - INFO - [Frame 826] Predicted: Unknown (confidence: 0.39, stable for 1.34s)
+2026-03-17 03:09:22,183 - INFO - [Frame 827] Predicted: Unknown (confidence: 0.34, stable for 1.45s)
+2026-03-17 03:09:22,307 - INFO - [Frame 828] Predicted: Unknown (confidence: 0.37, stable for 1.57s)
+2026-03-17 03:09:22,431 - INFO - [Frame 829] Predicted: Unknown (confidence: 0.33, stable for 1.70s)
+2026-03-17 03:09:22,549 - INFO - [Frame 830] Predicted: Unknown (confidence: 0.31, stable for 1.82s)
+2026-03-17 03:09:22,664 - INFO - [Frame 831] Predicted: Unknown (confidence: 0.33, stable for 1.93s)
+2026-03-17 03:09:22,778 - INFO - [Frame 832] Predicted: Unknown (confidence: 0.63, stable for 2.05s)
+2026-03-17 03:09:22,886 - INFO - [Frame 833] Predicted: Unknown (confidence: 0.66, stable for 2.16s)
+2026-03-17 03:09:25,688 - INFO - Exit requested by user
+2026-03-17 03:09:25,688 - INFO - Cleaning up resources...
+2026-03-17 03:09:26,032 - INFO - Cleanup complete
+2026-03-17 03:12:12,594 - INFO - Initializing Gesture Recognition Application
+2026-03-17 03:12:12,594 - INFO - Validating setup...
+2026-03-17 03:12:12,595 - INFO - Model found: mobilenetv2_crop.h5
+2026-03-17 03:12:12,595 - INFO - Class names found: class_names.txt
+2026-03-17 03:12:12,595 - INFO - Output directory ready: live_crops
+2026-03-17 03:12:12,595 - INFO - Setup validation passed
+2026-03-17 03:12:12,596 - INFO - Initializing components...
+2026-03-17 03:12:12,596 - INFO - Model file found: mobilenetv2_crop.h5
+2026-03-17 03:12:13,903 - INFO - Model loaded successfully: mobilenetv2_crop.h5
+2026-03-17 03:12:13,904 - INFO - Class names file found: class_names.txt
+2026-03-17 03:12:13,904 - INFO - Loaded 29 class names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'asl_alphabet_test', 'del', 'space']
+2026-03-17 03:12:13,912 - INFO - MediaPipe hands initialized
+2026-03-17 03:12:18,717 - INFO - Camera initialized (index: 0)
+2026-03-17 03:12:18,717 - INFO - All components initialized successfully
+2026-03-17 03:12:18,717 - INFO - Starting gesture recognition loop...
+2026-03-17 03:12:18,718 - INFO - Press 'q' to exit
+2026-03-17 03:12:22,601 - INFO - [Frame 75] Predicted: O (confidence: 0.82, stable for 1.02s)
+2026-03-17 03:12:23,202 - INFO - [Frame 90] Predicted: O (confidence: 0.72, stable for 2.33s)
+2026-03-17 03:12:23,798 - INFO - [Frame 107] Predicted: O (confidence: 0.27, stable for 2.93s)
+2026-03-17 03:12:24,392 - INFO - [Frame 121] Predicted: Unknown (confidence: 0.38, stable for 3.52s)
+2026-03-17 03:12:25,000 - INFO - [Frame 137] Predicted: Unknown (confidence: 0.28, stable for 4.13s)
+2026-03-17 03:12:25,584 - INFO - [Frame 152] Predicted: Unknown (confidence: 0.21, stable for 4.72s)
+2026-03-17 03:12:26,163 - INFO - [Frame 166] Predicted: Unknown (confidence: 0.34, stable for 5.30s)
+2026-03-17 03:12:26,769 - INFO - [Frame 181] Predicted: Unknown (confidence: 0.32, stable for 5.89s)
+2026-03-17 03:12:27,377 - INFO - [Frame 196] Predicted: Unknown (confidence: 0.31, stable for 6.51s)
+2026-03-17 03:12:27,980 - INFO - [Frame 211] Predicted: Unknown (confidence: 0.36, stable for 7.10s)
+2026-03-17 03:12:28,565 - INFO - [Frame 226] Predicted: Unknown (confidence: 0.37, stable for 7.70s)
+2026-03-17 03:12:29,165 - INFO - [Frame 241] Predicted: Unknown (confidence: 0.23, stable for 8.30s)
+2026-03-17 03:12:29,780 - INFO - [Frame 256] Predicted: Unknown (confidence: 0.55, stable for 8.91s)
+2026-03-17 03:12:30,391 - INFO - [Frame 272] Predicted: Unknown (confidence: 0.33, stable for 9.52s)
+2026-03-17 03:12:31,001 - INFO - [Frame 287] Predicted: Unknown (confidence: 0.37, stable for 10.13s)
+2026-03-17 03:12:31,590 - INFO - [Frame 302] Predicted: Unknown (confidence: 0.55, stable for 10.72s)
+2026-03-17 03:12:32,198 - INFO - [Frame 317] Predicted: Unknown (confidence: 0.31, stable for 11.33s)
+2026-03-17 03:12:32,793 - INFO - [Frame 332] Predicted: Unknown (confidence: 0.34, stable for 11.93s)
+2026-03-17 03:12:33,401 - INFO - [Frame 347] Predicted: Unknown (confidence: 0.43, stable for 12.54s)
+2026-03-17 03:12:33,999 - INFO - [Frame 362] Predicted: Unknown (confidence: 0.35, stable for 13.13s)
+2026-03-17 03:12:34,585 - INFO - [Frame 376] Predicted: Unknown (confidence: 0.39, stable for 13.71s)
+2026-03-17 03:12:35,196 - INFO - [Frame 392] Predicted: Unknown (confidence: 0.20, stable for 14.32s)
+2026-03-17 03:12:35,782 - INFO - [Frame 406] Predicted: Unknown (confidence: 0.20, stable for 14.91s)
+2026-03-17 03:12:36,394 - INFO - [Frame 422] Predicted: Unknown (confidence: 0.25, stable for 15.52s)
+2026-03-17 03:12:36,997 - INFO - [Frame 437] Predicted: Unknown (confidence: 0.52, stable for 16.13s)
+2026-03-17 03:12:38,240 - INFO - [Frame 471] Predicted: O (confidence: 0.95, stable for 1.01s)
+2026-03-17 03:12:38,842 - INFO - [Frame 486] Predicted: O (confidence: 0.82, stable for 1.60s)
+2026-03-17 03:12:39,453 - INFO - [Frame 501] Predicted: O (confidence: 0.83, stable for 2.21s)
+2026-03-17 03:12:40,066 - INFO - [Frame 517] Predicted: O (confidence: 0.57, stable for 2.83s)
+2026-03-17 03:12:40,677 - INFO - [Frame 532] Predicted: O (confidence: 0.74, stable for 3.44s)
+2026-03-17 03:12:41,266 - INFO - [Frame 547] Predicted: O (confidence: 0.65, stable for 4.04s)
+2026-03-17 03:12:41,878 - INFO - [Frame 562] Predicted: O (confidence: 0.70, stable for 4.64s)
+2026-03-17 03:12:42,473 - INFO - [Frame 577] Predicted: O (confidence: 0.77, stable for 5.24s)
+2026-03-17 03:12:43,079 - INFO - [Frame 592] Predicted: O (confidence: 0.92, stable for 5.84s)
+2026-03-17 03:12:43,677 - INFO - [Frame 607] Predicted: O (confidence: 0.30, stable for 6.44s)
+2026-03-17 03:12:44,288 - INFO - [Frame 622] Predicted: Unknown (confidence: 0.19, stable for 7.04s)
+2026-03-17 03:12:44,908 - INFO - [Frame 638] Predicted: Unknown (confidence: 0.27, stable for 7.66s)
+2026-03-17 03:12:45,515 - INFO - [Frame 653] Predicted: Unknown (confidence: 0.33, stable for 8.27s)
+2026-03-17 03:12:46,114 - INFO - [Frame 668] Predicted: Unknown (confidence: 0.26, stable for 8.87s)
+2026-03-17 03:12:46,716 - INFO - [Frame 683] Predicted: Unknown (confidence: 0.24, stable for 9.47s)
+2026-03-17 03:12:47,353 - INFO - [Frame 699] Predicted: Unknown (confidence: 0.42, stable for 10.11s)
+2026-03-17 03:12:47,971 - INFO - [Frame 715] Predicted: Unknown (confidence: 0.20, stable for 10.73s)
+2026-03-17 03:12:48,599 - INFO - [Frame 730] Predicted: Unknown (confidence: 0.33, stable for 11.35s)
+2026-03-17 03:12:49,214 - INFO - [Frame 745] Predicted: Unknown (confidence: 0.42, stable for 11.95s)
+2026-03-17 03:12:49,811 - INFO - [Frame 761] Predicted: Unknown (confidence: 0.32, stable for 12.57s)
+2026-03-17 03:12:50,410 - INFO - [Frame 776] Predicted: Unknown (confidence: 0.44, stable for 13.17s)
+2026-03-17 03:12:51,606 - INFO - [Frame 808] Predicted: Unknown (confidence: 0.34, stable for 1.03s)
+2026-03-17 03:12:52,217 - INFO - [Frame 824] Predicted: Unknown (confidence: 0.20, stable for 1.65s)
+2026-03-17 03:12:52,820 - INFO - [Frame 839] Predicted: Unknown (confidence: 0.35, stable for 2.24s)
+2026-03-17 03:12:53,418 - INFO - [Frame 854] Predicted: Unknown (confidence: 0.29, stable for 2.85s)
+2026-03-17 03:12:54,064 - INFO - [Frame 870] Predicted: Unknown (confidence: 0.30, stable for 3.48s)
+2026-03-17 03:12:54,658 - INFO - [Frame 885] Predicted: Unknown (confidence: 0.50, stable for 4.09s)
+2026-03-17 03:12:55,281 - INFO - [Frame 901] Predicted: Unknown (confidence: 0.34, stable for 4.71s)
+2026-03-17 03:12:55,882 - INFO - [Frame 916] Predicted: Unknown (confidence: 0.43, stable for 5.33s)
+2026-03-17 03:12:56,505 - INFO - [Frame 932] Predicted: Unknown (confidence: 0.37, stable for 5.93s)
+2026-03-17 03:12:57,118 - INFO - [Frame 946] Predicted: Unknown (confidence: 0.47, stable for 6.54s)
+2026-03-17 03:12:57,735 - INFO - [Frame 960] Predicted: Unknown (confidence: 0.25, stable for 7.17s)
+2026-03-17 03:12:58,359 - INFO - [Frame 972] Predicted: Unknown (confidence: 0.27, stable for 7.79s)
+2026-03-17 03:12:58,986 - INFO - [Frame 987] Predicted: Unknown (confidence: 0.30, stable for 8.40s)
+2026-03-17 03:12:59,588 - INFO - [Frame 1000] Predicted: Unknown (confidence: 0.42, stable for 9.01s)
+2026-03-17 03:13:00,223 - INFO - [Frame 1012] Predicted: Unknown (confidence: 0.29, stable for 9.63s)
+2026-03-17 03:13:00,836 - INFO - [Frame 1026] Predicted: Unknown (confidence: 0.17, stable for 10.27s)
+2026-03-17 03:13:01,445 - INFO - [Frame 1041] Predicted: Unknown (confidence: 0.59, stable for 10.89s)
+2026-03-17 03:13:02,053 - INFO - [Frame 1056] Predicted: Unknown (confidence: 0.31, stable for 11.48s)
+2026-03-17 03:13:02,644 - INFO - [Frame 1071] Predicted: Unknown (confidence: 0.38, stable for 12.08s)
+2026-03-17 03:13:03,241 - INFO - [Frame 1086] Predicted: Unknown (confidence: 0.63, stable for 12.68s)
+2026-03-17 03:13:03,852 - INFO - [Frame 1101] Predicted: Unknown (confidence: 0.49, stable for 13.28s)
+2026-03-17 03:13:04,446 - INFO - [Frame 1116] Predicted: Unknown (confidence: 0.31, stable for 13.88s)
+2026-03-17 03:13:05,052 - INFO - [Frame 1131] Predicted: Unknown (confidence: 0.43, stable for 14.48s)
+2026-03-17 03:13:05,685 - INFO - [Frame 1147] Predicted: Unknown (confidence: 0.42, stable for 15.12s)
+2026-03-17 03:13:09,276 - INFO - [Frame 1240] Predicted: Unknown (confidence: 0.37, stable for 1.02s)
+2026-03-17 03:13:09,888 - INFO - [Frame 1255] Predicted: Unknown (confidence: 0.28, stable for 1.63s)
+2026-03-17 03:13:10,512 - INFO - [Frame 1271] Predicted: Unknown (confidence: 0.31, stable for 2.26s)
+2026-03-17 03:13:11,113 - INFO - [Frame 1286] Predicted: Unknown (confidence: 0.28, stable for 2.86s)
+2026-03-17 03:13:12,476 - INFO - [Frame 1324] Predicted: Unknown (confidence: 0.27, stable for 1.01s)
+2026-03-17 03:13:13,092 - INFO - [Frame 1339] Predicted: Unknown (confidence: 0.36, stable for 1.62s)
+2026-03-17 03:13:13,720 - INFO - [Frame 1355] Predicted: Unknown (confidence: 0.37, stable for 2.25s)
+2026-03-17 03:13:15,059 - INFO - [Frame 1392] Predicted: del (confidence: 0.71, stable for 1.01s)
+2026-03-17 03:13:15,703 - INFO - [Frame 1408] Predicted: Unknown (confidence: 0.13, stable for 1.64s)
+2026-03-17 03:13:16,316 - INFO - [Frame 1420] Predicted: Unknown (confidence: 0.15, stable for 2.26s)
+2026-03-17 03:13:16,946 - INFO - [Frame 1431] Predicted: Unknown (confidence: 0.30, stable for 2.90s)
+2026-03-17 03:13:17,557 - INFO - [Frame 1446] Predicted: Unknown (confidence: 0.25, stable for 3.51s)
+2026-03-17 03:13:18,185 - INFO - [Frame 1460] Predicted: Unknown (confidence: 0.30, stable for 4.11s)
+2026-03-17 03:13:18,779 - INFO - [Frame 1474] Predicted: Unknown (confidence: 0.48, stable for 4.74s)
+2026-03-17 03:13:21,536 - INFO - [Frame 1539] Predicted: F (confidence: 0.99, stable for 1.02s)
+2026-03-17 03:13:22,136 - INFO - [Frame 1554] Predicted: F (confidence: 0.85, stable for 1.61s)
+2026-03-17 03:13:22,748 - INFO - [Frame 1569] Predicted: F (confidence: 0.35, stable for 2.22s)
+2026-03-17 03:13:23,394 - INFO - [Frame 1585] Predicted: Unknown (confidence: 0.55, stable for 2.85s)
+2026-03-17 03:13:24,005 - INFO - [Frame 1601] Predicted: Unknown (confidence: 0.79, stable for 3.48s)
+2026-03-17 03:13:24,604 - INFO - [Frame 1616] Predicted: Unknown (confidence: 0.36, stable for 4.07s)
+2026-03-17 03:13:25,204 - INFO - [Frame 1631] Predicted: F (confidence: 0.76, stable for 4.68s)
+2026-03-17 03:13:25,799 - INFO - [Frame 1646] Predicted: Unknown (confidence: 0.41, stable for 5.28s)
+2026-03-17 03:13:26,404 - INFO - [Frame 1661] Predicted: Unknown (confidence: 0.32, stable for 5.88s)
+2026-03-17 03:13:27,008 - INFO - [Frame 1676] Predicted: Unknown (confidence: 0.45, stable for 6.48s)
+2026-03-17 03:13:27,611 - INFO - [Frame 1691] Predicted: Unknown (confidence: 0.41, stable for 7.09s)
+2026-03-17 03:13:28,208 - INFO - [Frame 1706] Predicted: Unknown (confidence: 0.42, stable for 7.68s)
+2026-03-17 03:13:28,810 - INFO - [Frame 1721] Predicted: Unknown (confidence: 0.38, stable for 8.28s)
+2026-03-17 03:13:31,451 - INFO - [Frame 1789] Predicted: F (confidence: 0.95, stable for 1.02s)
+2026-03-17 03:13:32,041 - INFO - [Frame 1803] Predicted: F (confidence: 0.84, stable for 1.61s)
+2026-03-17 03:13:32,673 - INFO - [Frame 1819] Predicted: F (confidence: 0.86, stable for 2.24s)
+2026-03-17 03:13:33,276 - INFO - [Frame 1834] Predicted: F (confidence: 0.85, stable for 2.84s)
+2026-03-17 03:13:33,888 - INFO - [Frame 1850] Predicted: F (confidence: 0.96, stable for 3.45s)
+2026-03-17 03:13:34,475 - INFO - [Frame 1864] Predicted: F (confidence: 0.94, stable for 4.04s)
+2026-03-17 03:13:35,070 - INFO - [Frame 1879] Predicted: F (confidence: 0.95, stable for 4.64s)
+2026-03-17 03:13:35,674 - INFO - [Frame 1894] Predicted: F (confidence: 0.57, stable for 5.24s)
+2026-03-17 03:13:48,494 - INFO - [Frame 2184] Predicted: Unknown (confidence: 0.28, stable for 1.02s)
+2026-03-17 03:13:49,110 - INFO - [Frame 2199] Predicted: Unknown (confidence: 0.41, stable for 1.62s)
+2026-03-17 03:13:49,700 - INFO - [Frame 2214] Predicted: Unknown (confidence: 0.68, stable for 2.22s)
+2026-03-17 03:13:50,314 - INFO - [Frame 2229] Predicted: W (confidence: 0.62, stable for 2.83s)
+2026-03-17 03:13:50,914 - INFO - [Frame 2244] Predicted: W (confidence: 0.96, stable for 3.43s)
+2026-03-17 03:13:51,541 - INFO - [Frame 2259] Predicted: W (confidence: 0.65, stable for 4.04s)
+2026-03-17 03:13:52,157 - INFO - [Frame 2275] Predicted: W (confidence: 0.70, stable for 4.66s)
+2026-03-17 03:13:52,751 - INFO - [Frame 2290] Predicted: W (confidence: 0.87, stable for 5.26s)
+2026-03-17 03:13:53,352 - INFO - [Frame 2305] Predicted: W (confidence: 0.76, stable for 5.86s)
+2026-03-17 03:13:53,946 - INFO - [Frame 2320] Predicted: W (confidence: 0.71, stable for 6.46s)
+2026-03-17 03:13:54,542 - INFO - [Frame 2335] Predicted: W (confidence: 0.74, stable for 7.05s)
+2026-03-17 03:14:07,815 - INFO - [Frame 2603] Predicted: Unknown (confidence: 0.41, stable for 1.00s)
+2026-03-17 03:14:08,431 - INFO - [Frame 2617] Predicted: Unknown (confidence: 0.56, stable for 1.59s)
+2026-03-17 03:14:09,077 - INFO - [Frame 2633] Predicted: Unknown (confidence: 0.81, stable for 2.22s)
+2026-03-17 03:14:09,754 - INFO - [Frame 2645] Predicted: W (confidence: 0.94, stable for 2.91s)
+2026-03-17 03:14:10,377 - INFO - [Frame 2658] Predicted: W (confidence: 0.61, stable for 3.54s)
+2026-03-17 03:14:10,994 - INFO - [Frame 2674] Predicted: W (confidence: 0.93, stable for 4.18s)
+2026-03-17 03:14:11,620 - INFO - [Frame 2690] Predicted: W (confidence: 0.76, stable for 4.80s)
+2026-03-17 03:14:12,226 - INFO - [Frame 2705] Predicted: W (confidence: 0.43, stable for 5.40s)
+2026-03-17 03:14:12,840 - INFO - [Frame 2721] Predicted: W (confidence: 0.92, stable for 6.02s)
+2026-03-17 03:14:13,458 - INFO - [Frame 2736] Predicted: W (confidence: 0.96, stable for 6.64s)
+2026-03-17 03:14:14,065 - INFO - [Frame 2751] Predicted: W (confidence: 0.80, stable for 7.25s)
+2026-03-17 03:14:14,707 - INFO - [Frame 2767] Predicted: W (confidence: 0.28, stable for 7.87s)
+2026-03-17 03:14:15,326 - INFO - [Frame 2783] Predicted: W (confidence: 0.80, stable for 8.51s)
+2026-03-17 03:14:15,956 - INFO - [Frame 2799] Predicted: W (confidence: 0.77, stable for 9.14s)
+2026-03-17 03:14:16,565 - INFO - [Frame 2814] Predicted: W (confidence: 0.90, stable for 9.74s)
+2026-03-17 03:14:17,190 - INFO - [Frame 2830] Predicted: W (confidence: 0.95, stable for 10.37s)
+2026-03-17 03:14:17,884 - INFO - [Frame 2844] Predicted: W (confidence: 0.86, stable for 10.99s)
+2026-03-17 03:14:18,491 - INFO - [Frame 2857] Predicted: W (confidence: 0.90, stable for 11.67s)
+2026-03-17 03:14:19,107 - INFO - [Frame 2872] Predicted: W (confidence: 0.86, stable for 12.28s)
+2026-03-17 03:14:19,727 - INFO - [Frame 2888] Predicted: W (confidence: 0.74, stable for 12.91s)
+2026-03-17 03:14:20,323 - INFO - [Frame 2903] Predicted: W (confidence: 0.19, stable for 13.50s)
+2026-03-17 03:14:21,721 - INFO - [Frame 2939] Predicted: Unknown (confidence: 0.46, stable for 1.01s)
+2026-03-17 03:14:22,323 - INFO - [Frame 2954] Predicted: Unknown (confidence: 0.49, stable for 1.60s)
+2026-03-17 03:14:22,990 - INFO - [Frame 2967] Predicted: Unknown (confidence: 0.73, stable for 2.23s)
+2026-03-17 03:14:23,620 - INFO - [Frame 2981] Predicted: W (confidence: 0.62, stable for 2.90s)
+2026-03-17 03:14:24,219 - INFO - [Frame 2996] Predicted: W (confidence: 0.34, stable for 3.50s)
+2026-03-17 03:14:24,842 - INFO - [Frame 3011] Predicted: Unknown (confidence: 0.24, stable for 4.10s)
+2026-03-17 03:14:26,456 - INFO - [Frame 3051] Predicted: W (confidence: 0.72, stable for 1.02s)
+2026-03-17 03:14:27,065 - INFO - [Frame 3066] Predicted: W (confidence: 0.35, stable for 1.63s)
+2026-03-17 03:14:27,672 - INFO - [Frame 3082] Predicted: Unknown (confidence: 0.48, stable for 2.25s)
+2026-03-17 03:14:28,293 - INFO - [Frame 3097] Predicted: Unknown (confidence: 0.47, stable for 2.87s)
+2026-03-17 03:14:28,919 - INFO - [Frame 3113] Predicted: Unknown (confidence: 0.51, stable for 3.49s)
+2026-03-17 03:14:29,517 - INFO - [Frame 3128] Predicted: Unknown (confidence: 0.51, stable for 4.09s)
+2026-03-17 03:14:31,459 - INFO - [Frame 3183] Predicted: Unknown (confidence: 0.37, stable for 1.01s)
+2026-03-17 03:14:32,078 - INFO - [Frame 3199] Predicted: Unknown (confidence: 0.36, stable for 1.63s)
+2026-03-17 03:14:32,695 - INFO - [Frame 3214] Predicted: Unknown (confidence: 0.40, stable for 2.25s)
+2026-03-17 03:14:33,298 - INFO - [Frame 3229] Predicted: Unknown (confidence: 0.40, stable for 2.85s)
+2026-03-17 03:14:35,241 - INFO - [Frame 3282] Predicted: Unknown (confidence: 0.36, stable for 1.02s)
+2026-03-17 03:14:35,864 - INFO - [Frame 3297] Predicted: Unknown (confidence: 0.38, stable for 1.63s)
+2026-03-17 03:14:36,498 - INFO - [Frame 3313] Predicted: Unknown (confidence: 0.42, stable for 2.27s)
+2026-03-17 03:14:37,097 - INFO - [Frame 3328] Predicted: Unknown (confidence: 0.35, stable for 2.87s)
+2026-03-17 03:14:38,265 - INFO - [Frame 3360] Predicted: Unknown (confidence: 0.43, stable for 1.03s)
+2026-03-17 03:14:38,916 - INFO - [Frame 3374] Predicted: Unknown (confidence: 0.46, stable for 1.63s)
+2026-03-17 03:14:41,115 - INFO - [Frame 3425] Predicted: Unknown (confidence: 0.45, stable for 1.01s)
+2026-03-17 03:14:41,718 - INFO - [Frame 3440] Predicted: F (confidence: 0.66, stable for 1.60s)
+2026-03-17 03:14:46,625 - INFO - [Frame 3579] Predicted: Unknown (confidence: 0.46, stable for 1.01s)
+2026-03-17 03:14:47,243 - INFO - [Frame 3594] Predicted: Unknown (confidence: 0.31, stable for 1.62s)
+2026-03-17 03:14:47,859 - INFO - [Frame 3609] Predicted: Unknown (confidence: 0.49, stable for 2.23s)
+2026-03-17 03:14:49,337 - INFO - [Frame 3651] Predicted: Unknown (confidence: 0.35, stable for 1.02s)
+2026-03-17 03:14:49,967 - INFO - [Frame 3666] Predicted: Unknown (confidence: 0.40, stable for 1.64s)
+2026-03-17 03:14:50,639 - INFO - [Frame 3681] Predicted: Unknown (confidence: 0.57, stable for 2.27s)
+2026-03-17 03:14:51,233 - INFO - [Frame 3692] Predicted: Unknown (confidence: 0.32, stable for 2.92s)
+2026-03-17 03:14:51,828 - INFO - [Frame 3707] Predicted: Unknown (confidence: 0.45, stable for 3.51s)
+2026-03-17 03:14:52,467 - INFO - [Frame 3723] Predicted: Unknown (confidence: 0.68, stable for 4.13s)
+2026-03-17 03:14:53,173 - INFO - [Frame 3735] Predicted: Unknown (confidence: 0.59, stable for 4.77s)
+2026-03-17 03:14:53,809 - INFO - [Frame 3749] Predicted: Unknown (confidence: 0.48, stable for 5.49s)
+2026-03-17 03:14:55,420 - INFO - [Frame 3794] Predicted: Unknown (confidence: 0.37, stable for 1.00s)
+2026-03-17 03:14:56,017 - INFO - [Frame 3809] Predicted: Unknown (confidence: 0.80, stable for 1.60s)
+2026-03-17 03:14:56,622 - INFO - [Frame 3824] Predicted: O (confidence: 0.60, stable for 2.20s)
+2026-03-17 03:14:57,243 - INFO - [Frame 3840] Predicted: O (confidence: 0.50, stable for 2.83s)
+2026-03-17 03:14:57,863 - INFO - [Frame 3856] Predicted: O (confidence: 0.70, stable for 3.45s)
+2026-03-17 03:14:58,483 - INFO - [Frame 3870] Predicted: Unknown (confidence: 0.58, stable for 4.05s)
+2026-03-17 03:14:59,081 - INFO - [Frame 3883] Predicted: Unknown (confidence: 0.55, stable for 4.66s)
+2026-03-17 03:14:59,694 - INFO - [Frame 3898] Predicted: Unknown (confidence: 0.57, stable for 5.27s)
+2026-03-17 03:15:00,299 - INFO - [Frame 3913] Predicted: Unknown (confidence: 0.39, stable for 5.88s)
+2026-03-17 03:15:01,933 - INFO - [Frame 3959] Predicted: O (confidence: 0.79, stable for 1.00s)
+2026-03-17 03:15:02,555 - INFO - [Frame 3975] Predicted: O (confidence: 0.80, stable for 1.63s)
+2026-03-17 03:15:03,209 - INFO - [Frame 3990] Predicted: O (confidence: 0.76, stable for 2.25s)
+2026-03-17 03:15:03,882 - INFO - [Frame 4000] Predicted: O (confidence: 0.63, stable for 2.93s)
+2026-03-17 03:15:04,505 - INFO - [Frame 4015] Predicted: O (confidence: 0.65, stable for 3.57s)
+2026-03-17 03:15:05,123 - INFO - [Frame 4031] Predicted: O (confidence: 0.46, stable for 4.20s)
+2026-03-17 03:15:06,315 - INFO - [Frame 4057] Predicted: B (confidence: 0.76, stable for 1.04s)
+2026-03-17 03:15:06,920 - INFO - [Frame 4072] Predicted: B (confidence: 0.79, stable for 1.66s)
+2026-03-17 03:15:07,526 - INFO - [Frame 4088] Predicted: B (confidence: 0.66, stable for 2.27s)
+2026-03-17 03:15:08,145 - INFO - [Frame 4103] Predicted: B (confidence: 0.73, stable for 2.88s)
+2026-03-17 03:15:08,789 - INFO - [Frame 4116] Predicted: B (confidence: 0.52, stable for 3.50s)
+2026-03-17 03:15:09,459 - INFO - [Frame 4129] Predicted: B (confidence: 0.63, stable for 4.16s)
+2026-03-17 03:15:10,083 - INFO - [Frame 4141] Predicted: Unknown (confidence: 0.43, stable for 4.82s)
+2026-03-17 03:15:11,225 - INFO - [Frame 4169] Predicted: Unknown (confidence: 0.28, stable for 1.00s)
+2026-03-17 03:15:11,848 - INFO - [Frame 4185] Predicted: Unknown (confidence: 0.46, stable for 1.63s)
+2026-03-17 03:15:12,482 - INFO - [Frame 4200] Predicted: Unknown (confidence: 0.29, stable for 2.24s)
+2026-03-17 03:15:13,086 - INFO - [Frame 4213] Predicted: Unknown (confidence: 0.27, stable for 2.87s)
+2026-03-17 03:15:13,727 - INFO - [Frame 4229] Predicted: Unknown (confidence: 0.26, stable for 3.50s)
+2026-03-17 03:15:14,329 - INFO - [Frame 4245] Predicted: Unknown (confidence: 0.32, stable for 4.11s)
+2026-03-17 03:15:15,620 - INFO - [Frame 4280] Predicted: W (confidence: 0.77, stable for 1.00s)
+2026-03-17 03:15:16,253 - INFO - [Frame 4296] Predicted: W (confidence: 0.78, stable for 1.63s)
+2026-03-17 03:15:16,887 - INFO - [Frame 4309] Predicted: W (confidence: 0.85, stable for 2.27s)
+2026-03-17 03:15:17,494 - INFO - [Frame 4324] Predicted: W (confidence: 0.60, stable for 2.87s)
+2026-03-17 03:15:18,123 - INFO - [Frame 4340] Predicted: Unknown (confidence: 0.52, stable for 3.50s)
+2026-03-17 03:15:18,752 - INFO - [Frame 4355] Predicted: Unknown (confidence: 0.18, stable for 4.14s)
+2026-03-17 03:15:20,021 - INFO - [Frame 4388] Predicted: Unknown (confidence: 0.44, stable for 1.01s)
+2026-03-17 03:15:20,649 - INFO - [Frame 4404] Predicted: Unknown (confidence: 0.38, stable for 1.64s)
+2026-03-17 03:15:21,271 - INFO - [Frame 4419] Predicted: Unknown (confidence: 0.55, stable for 2.25s)
+2026-03-17 03:15:21,888 - INFO - [Frame 4432] Predicted: Unknown (confidence: 0.31, stable for 2.88s)
+2026-03-17 03:15:22,489 - INFO - [Frame 4447] Predicted: Unknown (confidence: 0.54, stable for 3.48s)
+2026-03-17 03:15:27,125 - INFO - Exit requested by user
+2026-03-17 03:15:27,125 - INFO - Cleaning up resources...
+2026-03-17 03:15:27,489 - INFO - Cleanup complete
+2026-03-17 03:19:53,844 - INFO - Initializing Hand Gesture Recognition
+2026-03-17 03:19:53,846 - INFO - Validating setup...
+2026-03-17 03:19:53,925 - INFO - Initializing components...
+2026-03-17 03:19:54,806 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 03:19:54,806 - INFO - Loaded 29 class names
+2026-03-17 03:19:54,811 - INFO - MediaPipe hands initialized
+2026-03-17 03:19:58,226 - INFO - Camera initialized
+2026-03-17 03:19:58,227 - INFO - Starting gesture recognition...
+2026-03-17 03:19:58,227 - INFO - Press 'q' to exit | 's' to save debug info
+2026-03-17 03:20:04,338 - INFO -    G        0.031 
+2026-03-17 03:20:06,531 - INFO -    U        0.024 
+2026-03-17 03:20:06,531 - INFO -    A        0.019 
+2026-03-17 03:20:07,266 - INFO -    O        0.016 
+2026-03-17 03:20:07,266 - INFO -    asl_alphabet_test 0.010 
+2026-03-17 03:20:07,266 - INFO -    U        0.010 
+2026-03-17 03:20:07,266 - INFO -    Y        0.010 
+2026-03-17 03:20:08,284 - INFO -    Y        0.024 
+2026-03-17 03:20:08,284 - INFO -    A        0.011 
+2026-03-17 03:20:08,284 - INFO -    asl_alphabet_test 0.008 
+2026-03-17 03:20:08,284 - INFO -    U        0.007 
+2026-03-17 03:20:08,672 - INFO -    O        0.030 
+2026-03-17 03:20:08,672 - INFO -    Y        0.021 
+2026-03-17 03:20:08,672 - INFO -    asl_alphabet_test 0.010 
+2026-03-17 03:20:08,672 - INFO -    U        0.009 
+2026-03-17 03:20:09,028 - INFO -    A        0.018 
+2026-03-17 03:20:09,028 - INFO -    Y        0.016 
+2026-03-17 03:20:09,028 - INFO -    U        0.014 
+2026-03-17 03:20:09,028 - INFO -    O        0.013 
+2026-03-17 03:20:12,198 - INFO -    G        0.033 
+2026-03-17 03:20:12,563 - INFO -    O        0.019 
+2026-03-17 03:20:12,563 - INFO -    X        0.015 
+2026-03-17 03:20:12,563 - INFO -    F        0.011 
+2026-03-17 03:20:15,641 - INFO -    F        0.007 
+2026-03-17 03:20:16,762 - INFO -    A        0.019 
+2026-03-17 03:20:16,762 - INFO -    N        0.017 
+2026-03-17 03:20:17,118 - INFO -    E        0.022 
+2026-03-17 03:20:17,118 - INFO -    V        0.021 
+2026-03-17 03:20:17,479 - INFO -    O        0.016 
+2026-03-17 03:20:17,846 - INFO -    O        0.020 
+2026-03-17 03:20:18,203 - INFO -    O        0.031 
+2026-03-17 03:20:19,860 - INFO -    M        0.025 
+2026-03-17 03:20:19,860 - INFO -    A        0.023 
+2026-03-17 03:20:20,234 - INFO -    O        0.029 
+2026-03-17 03:20:20,234 - INFO -    F        0.025 
+2026-03-17 03:20:21,365 - INFO -    W        0.032 
+2026-03-17 03:20:22,099 - INFO -    C        0.007 
+2026-03-17 03:20:22,482 - INFO -    B        0.020 
+2026-03-17 03:20:24,381 - INFO -    N        0.018 
+2026-03-17 03:20:24,381 - INFO -    C        0.013 
+2026-03-17 03:20:24,770 - INFO -    W        0.030 
+2026-03-17 03:20:24,771 - INFO -    N        0.008 
+2026-03-17 03:20:24,771 - INFO -    B        0.007 
+2026-03-17 03:20:25,130 - INFO -    C        0.003 
+2026-03-17 03:20:25,130 - INFO -    Y        0.003 
+2026-03-17 03:20:25,491 - INFO -    B        0.010 
+2026-03-17 03:20:25,492 - INFO -    N        0.004 
+2026-03-17 03:20:26,939 - INFO -    E        0.032 
+2026-03-17 03:20:29,780 - INFO -    C        0.033 
+2026-03-17 03:20:30,186 - INFO -    M        0.027 
+2026-03-17 03:20:30,186 - INFO -    K        0.025 
+2026-03-17 03:20:30,186 - INFO -    N        0.009 
+2026-03-17 03:20:30,549 - INFO -    K        0.030 
+2026-03-17 03:20:30,919 - INFO -    M        0.025 
+2026-03-17 03:20:30,919 - INFO -    Y        0.025 
+2026-03-17 03:20:31,295 - INFO -    Q        0.021 
+2026-03-17 03:20:32,072 - INFO -    del      0.025 
+2026-03-17 03:20:32,072 - INFO -    K        0.022 
+2026-03-17 03:20:33,200 - INFO -    del      0.032 
+2026-03-17 03:20:33,977 - INFO -    V        0.032 
+2026-03-17 03:20:33,977 - INFO -    Y        0.010 
+2026-03-17 03:20:33,977 - INFO -    N        0.007 
+2026-03-17 03:20:33,978 - INFO -    J        0.006 
+2026-03-17 03:20:34,336 - INFO -    J        0.014 
+2026-03-17 03:20:34,336 - INFO -    V        0.013 
+2026-03-17 03:20:34,336 - INFO -    K        0.004 
+2026-03-17 03:20:34,698 - INFO -    V        0.012 
+2026-03-17 03:20:34,698 - INFO -    J        0.011 
+2026-03-17 03:20:34,698 - INFO -    K        0.004 
+2026-03-17 03:20:35,075 - INFO -    V        0.004 
+2026-03-17 03:20:35,075 - INFO -    J        0.003 
+2026-03-17 03:20:35,075 - INFO -    K        0.001 
+2026-03-17 03:20:35,437 - INFO -    V        0.011 
+2026-03-17 03:20:35,437 - INFO -    K        0.003 
+2026-03-17 03:20:35,437 - INFO -    J        0.003 
+2026-03-17 03:20:37,451 - INFO -    C        0.020 
+2026-03-17 03:20:37,818 - INFO -    M        0.029 
+2026-03-17 03:20:37,818 - INFO -    O        0.028 
+2026-03-17 03:20:37,818 - INFO -    N        0.014 
+2026-03-17 03:20:37,818 - INFO -    K        0.012 
+2026-03-17 03:20:38,179 - INFO -    N        0.028 
+2026-03-17 03:20:38,179 - INFO -    B        0.020 
+2026-03-17 03:20:38,179 - INFO -    F        0.019 
+2026-03-17 03:20:38,939 - INFO -    F        0.028 
+2026-03-17 03:20:38,939 - INFO -    Y        0.013 
+2026-03-17 03:20:38,939 - INFO -    O        0.009 
+2026-03-17 03:20:38,939 - INFO -    M        0.008 
+2026-03-17 03:20:39,668 - INFO -    M        0.023 
+2026-03-17 03:20:39,668 - INFO -    N        0.015 
+2026-03-17 03:20:39,668 - INFO -    O        0.009 
+2026-03-17 03:20:39,668 - INFO -    Y        0.009 
+2026-03-17 03:20:40,040 - INFO -    O        0.022 
+2026-03-17 03:20:40,041 - INFO -    B        0.019 
+2026-03-17 03:20:40,407 - INFO -    N        0.025 
+2026-03-17 03:20:40,407 - INFO -    B        0.015 
+2026-03-17 03:20:40,407 - INFO -    O        0.012 
+2026-03-17 03:20:40,778 - INFO -    B        0.031 
+2026-03-17 03:20:41,173 - INFO -    N        0.023 
+2026-03-17 03:20:41,173 - INFO -    M        0.023 
+2026-03-17 03:20:41,582 - INFO -    O        0.031 
+2026-03-17 03:20:41,582 - INFO -    Y        0.006 
+2026-03-17 03:20:41,582 - INFO -    D        0.002 
+2026-03-17 03:20:41,973 - INFO -    D        0.006 
+2026-03-17 03:20:41,973 - INFO -    Y        0.003 
+2026-03-17 03:20:42,381 - INFO -    D        0.014 
+2026-03-17 03:20:42,381 - INFO -    C        0.003 
+2026-03-17 03:20:42,776 - INFO -    D        0.010 
+2026-03-17 03:20:42,777 - INFO -    B        0.006 
+2026-03-17 03:20:44,008 - INFO -    Y        0.008 
+2026-03-17 03:20:44,008 - INFO -    J        0.004 
+2026-03-17 03:20:44,008 - INFO -    N        0.002 
+2026-03-17 03:20:44,382 - INFO -    Y        0.007 
+2026-03-17 03:20:44,382 - INFO -    N        0.002 
+2026-03-17 03:20:44,382 - INFO -    O        0.002 
+2026-03-17 03:20:44,775 - INFO -    F        0.028 
+2026-03-17 03:20:44,775 - INFO -    Y        0.003 
+2026-03-17 03:20:44,775 - INFO -    O        0.001 
+2026-03-17 03:20:44,775 - INFO -    N        0.001 
+2026-03-17 03:20:45,139 - INFO -    F        0.013 
+2026-03-17 03:20:45,139 - INFO -    Y        0.001 
+2026-03-17 03:20:45,139 - INFO -    J        0.000 
+2026-03-17 03:20:45,139 - INFO -    O        0.000 
+2026-03-17 03:20:45,498 - INFO -    Y        0.026 
+2026-03-17 03:20:45,498 - INFO -    F        0.020 
+2026-03-17 03:20:45,498 - INFO -    O        0.008 
+2026-03-17 03:20:45,498 - INFO -    M        0.005 
+2026-03-17 03:20:45,881 - INFO -    U        0.019 
+2026-03-17 03:20:45,881 - INFO -    J        0.010 
+2026-03-17 03:20:47,104 - INFO -    L        0.026 
+2026-03-17 03:20:47,104 - INFO -    T        0.016 
+2026-03-17 03:20:47,478 - INFO -    T        0.007 
+2026-03-17 03:20:47,478 - INFO -    asl_alphabet_test 0.006 
+2026-03-17 03:20:47,885 - INFO -    F        0.024 
+2026-03-17 03:20:47,885 - INFO -    asl_alphabet_test 0.006 
+2026-03-17 03:20:47,885 - INFO -    V        0.005 
+2026-03-17 03:20:48,286 - INFO -    J        0.032 
+2026-03-17 03:20:48,286 - INFO -    C        0.028 
+2026-03-17 03:20:49,081 - INFO -    Y        0.018 
+2026-03-17 03:20:49,081 - INFO -    V        0.008 
+2026-03-17 03:20:49,081 - INFO -    D        0.003 
+2026-03-17 03:20:49,482 - INFO -    Y        0.015 
+2026-03-17 03:20:49,482 - INFO -    V        0.002 
+2026-03-17 03:20:49,482 - INFO -    O        0.002 
+2026-03-17 03:20:50,711 - INFO -    V        0.025 
+2026-03-17 03:20:50,711 - INFO -    J        0.020 
+2026-03-17 03:20:53,175 - INFO -    O        0.031 
+2026-03-17 03:20:54,283 - INFO -    O        0.029 
+2026-03-17 03:20:55,485 - INFO -    V        0.031 
+2026-03-17 03:20:55,485 - INFO -    W        0.023 
+2026-03-17 03:21:01,582 - INFO -    J        0.033 
+2026-03-17 03:21:07,974 - INFO -    asl_alphabet_test 0.031 
+2026-03-17 03:21:15,174 - INFO -    B        0.031 
+2026-03-17 03:21:15,970 - INFO -    M        0.025 
+2026-03-17 03:21:17,366 - INFO -    B        0.032 
+2026-03-17 03:21:17,366 - INFO -    M        0.022 
+2026-03-17 03:21:17,366 - INFO -    asl_alphabet_test 0.010 
+2026-03-17 03:21:17,732 - INFO -    M        0.030 
+2026-03-17 03:21:17,732 - INFO -    asl_alphabet_test 0.018 
+2026-03-17 03:21:18,107 - INFO -    B        0.033 
+2026-03-17 03:21:18,107 - INFO -    M        0.032 
+2026-03-17 03:21:18,107 - INFO -    G        0.031 
+2026-03-17 03:21:18,470 - INFO -    B        0.020 
+2026-03-17 03:21:18,471 - INFO -    M        0.020 
+2026-03-17 03:21:18,835 - INFO -    G        0.030 
+2026-03-17 03:21:18,835 - INFO -    M        0.029 
+2026-03-17 03:21:19,194 - INFO -    B        0.015 
+2026-03-17 03:21:19,194 - INFO -    asl_alphabet_test 0.014 
+2026-03-17 03:21:19,579 - INFO -    M        0.029 
+2026-03-17 03:21:27,479 - INFO -    asl_alphabet_test 0.012 
+2026-03-17 03:21:27,479 - INFO -    J        0.010 
+2026-03-17 03:21:27,861 - INFO -    J        0.030 
+2026-03-17 03:21:27,862 - INFO -    asl_alphabet_test 0.012 
+2026-03-17 03:21:28,224 - INFO -    asl_alphabet_test 0.024 
+2026-03-17 03:21:28,590 - INFO -    P        0.032 
+2026-03-17 03:21:28,590 - INFO -    J        0.017 
+2026-03-17 03:21:28,965 - INFO -    R        0.030 
+2026-03-17 03:21:29,330 - INFO -    B        0.026 
+2026-03-17 03:21:29,330 - INFO -    P        0.021 
+2026-03-17 03:21:30,097 - INFO -    P        0.029 
+2026-03-17 03:21:30,478 - INFO -    J        0.030 
+2026-03-17 03:21:31,276 - INFO -    J        0.022 
+2026-03-17 03:21:32,070 - INFO -    N        0.031 
+2026-03-17 03:21:32,070 - INFO -    P        0.026 
+2026-03-17 03:21:32,071 - INFO -    asl_alphabet_test 0.019 
+2026-03-17 03:21:32,071 - INFO -    J        0.017 
+2026-03-17 03:21:34,500 - INFO -    G        0.033 
+2026-03-17 03:21:53,087 - INFO -    J        0.020 
+2026-03-17 03:21:53,087 - INFO -    Y        0.013 
+2026-03-17 03:21:57,221 - INFO -    W        0.025 
+2026-03-17 03:21:57,221 - INFO -    asl_alphabet_test 0.006 
+2026-03-17 03:21:57,221 - INFO -    O        0.006 
+2026-03-17 03:21:57,604 - INFO -    asl_alphabet_test 0.004 
+2026-03-17 03:21:57,604 - INFO -    B        0.003 
+2026-03-17 03:21:57,604 - INFO -    W        0.002 
+2026-03-17 03:21:57,974 - INFO -    asl_alphabet_test 0.008 
+2026-03-17 03:21:57,974 - INFO -    W        0.005 
+2026-03-17 03:21:57,974 - INFO -    G        0.003 
+2026-03-17 03:21:58,360 - INFO -    O        0.008 
+2026-03-17 03:21:58,361 - INFO -    X        0.008 
+2026-03-17 03:21:58,361 - INFO -    W        0.006 
+2026-03-17 03:22:00,973 - INFO -    L        0.020 
+2026-03-17 03:22:00,973 - INFO -    K        0.015 
+2026-03-17 03:22:00,974 - INFO -    X        0.011 
+2026-03-17 03:22:01,368 - INFO -    asl_alphabet_test 0.019 
+2026-03-17 03:22:01,368 - INFO -    X        0.019 
+2026-03-17 03:22:01,368 - INFO -    L        0.014 
+2026-03-17 03:22:01,769 - INFO -    L        0.018 
+2026-03-17 03:22:02,166 - INFO -    X        0.027 
+2026-03-17 03:22:02,166 - INFO -    D        0.019 
+2026-03-17 03:22:02,166 - INFO -    asl_alphabet_test 0.019 
+2026-03-17 03:22:24,551 - INFO -    W        0.028 
+2026-03-17 03:22:24,551 - INFO -    A        0.018 
+2026-03-17 03:22:24,551 - INFO -    B        0.011 
+2026-03-17 03:22:24,926 - INFO -    V        0.018 
+2026-03-17 03:22:24,926 - INFO -    F        0.013 
+2026-03-17 03:22:25,679 - INFO -    B        0.018 
+2026-03-17 03:22:25,680 - INFO -    F        0.015 
+2026-03-17 03:22:26,153 - INFO -    J        0.032 
+2026-03-17 03:22:26,153 - INFO -    N        0.019 
+2026-03-17 03:22:26,515 - INFO -    F        0.025 
+2026-03-17 03:22:27,623 - INFO -    G        0.022 
+2026-03-17 03:22:27,623 - INFO -    W        0.017 
+2026-03-17 03:22:28,366 - INFO -    W        0.030 
+2026-03-17 03:22:28,366 - INFO -    V        0.029 
+2026-03-17 03:22:29,160 - INFO -    V        0.026 
+2026-03-17 03:22:30,766 - INFO -    V        0.015 
+2026-03-17 03:22:30,766 - INFO -    U        0.014 
+2026-03-17 03:22:31,165 - INFO -    B        0.031 
+2026-03-17 03:22:39,862 - INFO -    L        0.015 
+2026-03-17 03:22:40,230 - INFO -    J        0.027 
+2026-03-17 03:22:40,230 - INFO -    B        0.022 
+2026-03-17 03:22:40,963 - INFO -    asl_alphabet_test 0.032 
+2026-03-17 03:22:41,329 - INFO -    asl_alphabet_test 0.023 
+2026-03-17 03:22:42,461 - INFO -    asl_alphabet_test 0.027 
+2026-03-17 03:22:43,558 - INFO -    Y        0.032 
+2026-03-17 03:22:43,558 - INFO -    N        0.026 
+2026-03-17 03:22:43,558 - INFO -    W        0.024 
+2026-03-17 03:22:45,458 - INFO -    N        0.026 
+2026-03-17 03:22:47,856 - INFO - Exit requested
+2026-03-17 03:22:48,196 - INFO - Cleanup complete
+2026-03-17 03:25:43,613 - INFO - Initializing Hand Gesture Recognition (Poor Camera Mode)
+2026-03-17 03:25:43,615 - INFO - Validating setup...
+2026-03-17 03:25:43,617 - INFO - Initializing components...
+2026-03-17 03:25:44,489 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 03:25:44,490 - INFO - Loaded 29 class names
+2026-03-17 03:25:44,495 - INFO - MediaPipe hands initialized
+2026-03-17 03:25:54,393 - INFO - Camera initialized with auto properties
+2026-03-17 03:25:54,396 - INFO - Press 'q' to exit
+2026-03-17 03:26:06,337 - INFO -    W        0.025 
+2026-03-17 03:26:06,338 - INFO -    X        0.005 
+2026-03-17 03:26:06,338 - INFO -    G        0.001 
+2026-03-17 03:26:06,338 - INFO -    E        0.001 
+2026-03-17 03:26:07,851 - INFO -    V        0.005 
+2026-03-17 03:26:07,851 - INFO -    G        0.004 
+2026-03-17 03:26:07,851 - INFO -    X        0.001 
+2026-03-17 03:26:08,226 - INFO -    V        0.004 
+2026-03-17 03:26:08,226 - INFO -    R        0.000 
+2026-03-17 03:26:08,226 - INFO -    D        0.000 
+2026-03-17 03:26:08,629 - INFO -    V        0.005 
+2026-03-17 03:26:08,630 - INFO -    X        0.003 
+2026-03-17 03:26:08,997 - INFO -    E        0.028 
+2026-03-17 03:26:08,997 - INFO -    X        0.007 
+2026-03-17 03:26:08,997 - INFO -    B        0.003 
+2026-03-17 03:26:09,390 - INFO -    E        0.003 
+2026-03-17 03:26:09,390 - INFO -    X        0.001 
+2026-03-17 03:26:09,390 - INFO -    D        0.001 
+2026-03-17 03:26:09,767 - INFO -    E        0.003 
+2026-03-17 03:26:09,767 - INFO -    U        0.002 
+2026-03-17 03:26:09,767 - INFO -    B        0.001 
+2026-03-17 03:26:10,154 - INFO -    E        0.002 
+2026-03-17 03:26:10,154 - INFO -    M        0.001 
+2026-03-17 03:26:10,155 - INFO -    G        0.001 
+2026-03-17 03:26:10,523 - INFO -    E        0.001 
+2026-03-17 03:26:10,523 - INFO -    U        0.000 
+2026-03-17 03:26:10,523 - INFO -    X        0.000 
+2026-03-17 03:26:10,928 - INFO -    X        0.001 
+2026-03-17 03:26:10,928 - INFO -    J        0.001 
+2026-03-17 03:26:10,928 - INFO -    M        0.000 
+2026-03-17 03:26:21,281 - INFO -    B        0.010 
+2026-03-17 03:26:21,282 - INFO -    G        0.004 
+2026-03-17 03:26:27,201 - INFO -    W        0.017 
+2026-03-17 03:26:27,201 - INFO -    M        0.004 
+2026-03-17 03:26:27,203 - INFO -    G        0.004 
+2026-03-17 03:26:27,203 - INFO -    B        0.003 
+2026-03-17 03:26:27,581 - INFO -    W        0.031 
+2026-03-17 03:26:27,581 - INFO -    E        0.025 
+2026-03-17 03:26:27,967 - INFO -    F        0.024 
+2026-03-17 03:26:27,967 - INFO -    E        0.004 
+2026-03-17 03:26:34,504 - INFO -    A        0.010 
+2026-03-17 03:26:34,504 - INFO -    M        0.009 
+2026-03-17 03:26:34,504 - INFO -    F        0.007 
+2026-03-17 03:26:40,904 - INFO -    F        0.012 
+2026-03-17 03:26:40,904 - INFO -    A        0.005 
+2026-03-17 03:26:40,904 - INFO -    M        0.001 
+2026-03-17 03:26:41,293 - INFO -    M        0.009 
+2026-03-17 03:26:41,293 - INFO -    F        0.008 
+2026-03-17 03:26:41,293 - INFO -    T        0.002 
+2026-03-17 03:26:41,685 - INFO -    A        0.008 
+2026-03-17 03:26:41,685 - INFO -    F        0.004 
+2026-03-17 03:26:41,685 - INFO -    M        0.004 
+2026-03-17 03:26:42,075 - INFO -    B        0.010 
+2026-03-17 03:26:42,076 - INFO -    A        0.000 
+2026-03-17 03:26:42,076 - INFO -    M        0.000 
+2026-03-17 03:26:42,076 - INFO -    F        0.000 
+2026-03-17 03:26:42,460 - INFO -    M        0.007 
+2026-03-17 03:26:42,460 - INFO -    A        0.002 
+2026-03-17 03:26:42,460 - INFO -    F        0.001 
+2026-03-17 03:26:42,851 - INFO -    B        0.025 
+2026-03-17 03:26:42,851 - INFO -    M        0.004 
+2026-03-17 03:26:42,851 - INFO -    A        0.003 
+2026-03-17 03:26:43,219 - INFO -    F        0.014 
+2026-03-17 03:26:43,220 - INFO -    M        0.002 
+2026-03-17 03:26:43,220 - INFO -    G        0.001 
+2026-03-17 03:26:43,621 - INFO -    B        0.012 
+2026-03-17 03:26:43,622 - INFO -    F        0.004 
+2026-03-17 03:26:43,622 - INFO -    G        0.001 
+2026-03-17 03:26:43,622 - INFO -    M        0.001 
+2026-03-17 03:26:44,914 - INFO -    E        0.029 
+2026-03-17 03:26:44,914 - INFO -    M        0.004 
+2026-03-17 03:26:45,293 - INFO -    G        0.019 
+2026-03-17 03:26:46,372 - INFO -    E        0.017 
+2026-03-17 03:26:46,372 - INFO -    M        0.001 
+2026-03-17 03:26:46,766 - INFO -    G        0.006 
+2026-03-17 03:26:47,158 - INFO -    G        0.019 
+2026-03-17 03:26:47,557 - INFO -    G        0.007 
+2026-03-17 03:26:47,958 - INFO -    V        0.010 
+2026-03-17 03:26:48,353 - INFO -    M        0.015 
+2026-03-17 03:26:48,353 - INFO -    G        0.004 
+2026-03-17 03:26:48,354 - INFO -    F        0.002 
+2026-03-17 03:26:48,747 - INFO -    V        0.011 
+2026-03-17 03:26:48,748 - INFO -    W        0.008 
+2026-03-17 03:26:49,159 - INFO -    E        0.023 
+2026-03-17 03:26:49,556 - INFO -    E        0.020 
+2026-03-17 03:26:49,556 - INFO -    M        0.018 
+2026-03-17 03:26:49,952 - INFO -    E        0.027 
+2026-03-17 03:26:49,952 - INFO -    B        0.012 
+2026-03-17 03:26:49,953 - INFO -    A        0.002 
+2026-03-17 03:26:49,953 - INFO -    M        0.002 
+2026-03-17 03:26:50,334 - INFO -    V        0.015 
+2026-03-17 03:26:50,334 - INFO -    E        0.003 
+2026-03-17 03:26:50,715 - INFO -    B        0.027 
+2026-03-17 03:26:50,715 - INFO -    V        0.007 
+2026-03-17 03:26:50,715 - INFO -    E        0.007 
+2026-03-17 03:26:51,091 - INFO -    M        0.024 
+2026-03-17 03:26:51,484 - INFO -    G        0.021 
+2026-03-17 03:26:51,484 - INFO -    B        0.006 
+2026-03-17 03:26:51,484 - INFO -    W        0.002 
+2026-03-17 03:26:51,484 - INFO -    V        0.002 
+2026-03-17 03:26:51,862 - INFO -    W        0.015 
+2026-03-17 03:26:51,862 - INFO -    G        0.005 
+2026-03-17 03:26:51,863 - INFO -    B        0.003 
+2026-03-17 03:26:51,863 - INFO -    V        0.001 
+2026-03-17 03:26:52,256 - INFO -    V        0.032 
+2026-03-17 03:26:52,256 - INFO -    G        0.004 
+2026-03-17 03:26:53,894 - INFO -    F        0.015 
+2026-03-17 03:26:54,290 - INFO -    M        0.031 
+2026-03-17 03:26:54,691 - INFO -    G        0.028 
+2026-03-17 03:26:54,691 - INFO -    A        0.009 
+2026-03-17 03:26:54,691 - INFO -    U        0.003 
+2026-03-17 03:27:05,443 - INFO - Exit requested
+2026-03-17 03:27:05,787 - INFO - Cleanup complete
+2026-03-17 03:28:18,894 - INFO - Initializing Hand Gesture Recognition
+2026-03-17 03:28:18,894 - INFO - Validating setup...
+2026-03-17 03:28:18,897 - INFO - Initializing components...
+2026-03-17 03:28:19,988 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 03:28:19,988 - INFO - Loaded 29 class names
+2026-03-17 03:28:19,994 - INFO - MediaPipe hands initialized
+2026-03-17 03:28:24,005 - INFO - Camera initialized
+2026-03-17 03:28:24,008 - INFO - Press 'q' to exit
+2026-03-17 03:28:27,754 - INFO -    J        0.031 
+2026-03-17 03:28:35,805 - INFO -    T        0.031 
+2026-03-17 03:28:39,159 - INFO -    J        0.019 
+2026-03-17 03:28:39,737 - INFO -    M        0.024 
+2026-03-17 03:28:39,737 - INFO -    P        0.015 
+2026-03-17 03:28:39,737 - INFO -    X        0.013 
+2026-03-17 03:28:41,505 - INFO -    F        0.029 
+2026-03-17 03:28:41,505 - INFO -    O        0.023 
+2026-03-17 03:28:41,506 - INFO -    J        0.020 
+2026-03-17 03:28:55,885 - INFO - Exit requested
+2026-03-17 03:28:56,227 - INFO - Cleanup complete
+2026-03-17 03:34:53,960 - INFO - Initializing Hand Gesture Recognition (Fine-tuned Model)
+2026-03-17 03:34:53,961 - INFO - Validating setup...
+2026-03-17 03:34:53,961 - ERROR - Model not found: mobilenetv2_crop_finetuned.h5
+2026-03-17 03:35:43,505 - INFO - Initializing Hand Gesture Recognition (Fine-tuned Model)
+2026-03-17 03:35:43,505 - INFO - Validating setup...
+2026-03-17 03:35:43,507 - INFO - Initializing components...
+2026-03-17 03:35:44,284 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 03:35:44,285 - INFO - Loaded 29 class names
+2026-03-17 03:35:44,290 - INFO - MediaPipe hands initialized
+2026-03-17 03:35:47,476 - INFO - Camera initialized
+2026-03-17 03:35:47,478 - INFO - Press 'q' to exit
+2026-03-17 03:35:51,610 - INFO -    M        0.025 
+2026-03-17 03:35:51,610 - INFO -    N        0.013 
+2026-03-17 03:35:51,610 - INFO -    F        0.011 
+2026-03-17 03:35:52,179 - INFO -    M        0.028 
+2026-03-17 03:35:52,179 - INFO -    B        0.021 
+2026-03-17 03:35:52,180 - INFO -    F        0.012 
+2026-03-17 03:35:53,651 - INFO -    M        0.022 
+2026-03-17 03:35:53,651 - INFO -    G        0.019 
+2026-03-17 03:35:53,651 - INFO -    C        0.017 
+2026-03-17 03:35:54,242 - INFO -    T        0.021 
+2026-03-17 03:35:55,920 - INFO -    N        0.033 
+2026-03-17 03:35:55,921 - INFO -    W        0.031 
+2026-03-17 03:35:57,038 - INFO -    T        0.033 
+2026-03-17 03:35:57,038 - INFO -    M        0.017 
+2026-03-17 03:35:57,585 - INFO -    O        0.010 
+2026-03-17 03:35:57,585 - INFO -    T        0.006 
+2026-03-17 03:35:57,586 - INFO -    Y        0.004 
+2026-03-17 03:35:58,162 - INFO -    T        0.018 
+2026-03-17 03:35:58,163 - INFO -    N        0.015 
+2026-03-17 03:35:58,717 - INFO -    O        0.033 
+2026-03-17 03:35:58,717 - INFO -    N        0.025 
+2026-03-17 03:35:58,717 - INFO -    M        0.014 
+2026-03-17 03:35:59,281 - INFO -    N        0.027 
+2026-03-17 03:35:59,843 - INFO -    O        0.026 
+2026-03-17 03:35:59,843 - INFO -    N        0.004 
+2026-03-17 03:35:59,843 - INFO -    T        0.003 
+2026-03-17 03:36:00,423 - INFO -    B        0.014 
+2026-03-17 03:36:00,423 - INFO -    T        0.010 
+2026-03-17 03:36:01,831 - INFO -    U        0.014 
+2026-03-17 03:36:01,831 - INFO -    B        0.011 
+2026-03-17 03:36:01,831 - INFO -    D        0.008 
+2026-03-17 03:36:02,425 - INFO -    X        0.020 
+2026-03-17 03:36:02,425 - INFO -    B        0.016 
+2026-03-17 03:36:08,267 - INFO -    N        0.028 
+2026-03-17 03:36:10,543 - INFO -    N        0.026 
+2026-03-17 03:36:10,544 - INFO -    W        0.023 
+2026-03-17 03:36:11,103 - INFO -    M        0.028 
+2026-03-17 03:36:11,103 - INFO -    N        0.015 
+2026-03-17 03:36:11,673 - INFO -    D        0.013 
+2026-03-17 03:36:14,637 - INFO -    Y        0.031 
+2026-03-17 03:36:14,637 - INFO -    N        0.023 
+2026-03-17 03:36:15,772 - INFO -    T        0.032 
+2026-03-17 03:36:16,335 - INFO -    O        0.018 
+2026-03-17 03:36:16,335 - INFO -    N        0.013 
+2026-03-17 03:36:16,335 - INFO -    X        0.013 
+2026-03-17 03:36:17,515 - INFO -    X        0.029 
+2026-03-17 03:36:17,515 - INFO -    N        0.022 
+2026-03-17 03:36:18,647 - INFO -    N        0.025 
+2026-03-17 03:36:18,647 - INFO -    T        0.024 
+2026-03-17 03:36:18,647 - INFO -    X        0.019 
+2026-03-17 03:36:25,808 - INFO -    G        0.026 
+2026-03-17 03:36:25,808 - INFO -    O        0.025 
+2026-03-17 03:36:29,379 - INFO -    X        0.030 
+2026-03-17 03:36:29,936 - INFO -    N        0.031 
+2026-03-17 03:36:32,210 - INFO -    M        0.031 
+2026-03-17 03:36:32,210 - INFO -    N        0.020 
+2026-03-17 03:36:32,210 - INFO -    O        0.016 
+2026-03-17 03:36:32,799 - INFO -    O        0.017 
+2026-03-17 03:36:38,803 - INFO -    T        0.029 
+2026-03-17 03:36:39,371 - INFO -    O        0.028 
+2026-03-17 03:36:39,371 - INFO -    J        0.023 
+2026-03-17 03:36:39,942 - INFO -    O        0.028 
+2026-03-17 03:36:39,942 - INFO -    M        0.022 
+2026-03-17 03:36:40,506 - INFO -    M        0.014 
+2026-03-17 03:36:40,506 - INFO -    O        0.012 
+2026-03-17 03:36:42,820 - INFO -    H        0.028 
+2026-03-17 03:36:42,820 - INFO -    J        0.026 
+2026-03-17 03:36:44,882 - INFO - Exit requested
+2026-03-17 03:36:45,209 - INFO - Cleanup complete
+2026-03-17 07:12:36,795 - INFO - Initializing Hand Gesture Recognition (Skeleton Model)
+2026-03-17 07:12:36,796 - INFO - Validating setup...
+2026-03-17 07:12:36,820 - INFO - Initializing components...
+2026-03-17 07:12:37,698 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 07:12:37,711 - INFO - Loaded 29 class names
+2026-03-17 07:12:37,720 - INFO - MediaPipe hands initialized
+2026-03-17 07:12:41,026 - INFO - Camera initialized
+2026-03-17 07:12:41,028 - INFO - Press 'q' to exit
+2026-03-17 07:12:45,952 - INFO -    E        0.008 
+2026-03-17 07:12:45,952 - INFO -    I        0.006 
+2026-03-17 07:12:48,913 - INFO -    A        0.032 
+2026-03-17 07:12:49,463 - INFO -    A        0.016 
+2026-03-17 07:12:57,029 - INFO -    I        0.021 
+2026-03-17 07:12:57,030 - INFO -    S        0.011 
+2026-03-17 07:12:57,590 - INFO -    I        0.021 
+2026-03-17 07:12:57,590 - INFO -    S        0.016 
+2026-03-17 07:12:58,140 - INFO -    S        0.031 
+2026-03-17 07:12:58,141 - INFO -    N        0.023 
+2026-03-17 07:12:58,727 - INFO -    N        0.007 
+2026-03-17 07:12:58,727 - INFO -    S        0.005 
+2026-03-17 07:12:58,727 - INFO -    A        0.004 
+2026-03-17 07:12:59,289 - INFO -    S        0.018 
+2026-03-17 07:12:59,289 - INFO -    N        0.010 
+2026-03-17 07:12:59,289 - INFO -    A        0.008 
+2026-03-17 07:12:59,847 - INFO -    M        0.027 
+2026-03-17 07:12:59,847 - INFO -    N        0.001 
+2026-03-17 07:12:59,847 - INFO -    A        0.001 
+2026-03-17 07:12:59,847 - INFO -    S        0.001 
+2026-03-17 07:13:00,413 - INFO -    N        0.008 
+2026-03-17 07:13:00,414 - INFO -    S        0.002 
+2026-03-17 07:13:00,414 - INFO -    I        0.002 
+2026-03-17 07:13:13,713 - INFO -    X        0.029 
+2026-03-17 07:13:13,713 - INFO -    T        0.001 
+2026-03-17 07:13:14,266 - INFO -    E        0.018 
+2026-03-17 07:13:14,266 - INFO -    Z        0.011 
+2026-03-17 07:13:14,266 - INFO -    X        0.004 
+2026-03-17 07:13:14,266 - INFO -    W        0.000 
+2026-03-17 07:13:14,848 - INFO -    X        0.021 
+2026-03-17 07:13:14,848 - INFO -    E        0.017 
+2026-03-17 07:13:14,848 - INFO -    T        0.001 
+2026-03-17 07:13:15,410 - INFO -    M        0.001 
+2026-03-17 07:13:15,410 - INFO -    B        0.001 
+2026-03-17 07:13:15,410 - INFO -    X        0.001 
+2026-03-17 07:13:18,306 - INFO -    M        0.006 
+2026-03-17 07:13:18,878 - INFO -    M        0.030 
+2026-03-17 07:13:18,878 - INFO -    N        0.005 
+2026-03-17 07:13:19,447 - INFO -    I        0.016 
+2026-03-17 07:13:19,447 - INFO -    M        0.010 
+2026-03-17 07:13:19,447 - INFO -    Z        0.009 
+2026-03-17 07:13:22,207 - INFO -    Z        0.010 
+2026-03-17 07:13:22,208 - INFO -    D        0.007 
+2026-03-17 07:13:22,775 - INFO -    R        0.025 
+2026-03-17 07:13:22,775 - INFO -    W        0.023 
+2026-03-17 07:13:22,775 - INFO -    V        0.021 
+2026-03-17 07:13:22,775 - INFO -    Z        0.007 
+2026-03-17 07:13:23,359 - INFO -    D        0.004 
+2026-03-17 07:13:23,359 - INFO -    asl_alphabet_test 0.004 
+2026-03-17 07:13:25,995 - INFO -    N        0.027 
+2026-03-17 07:13:25,995 - INFO -    A        0.000 
+2026-03-17 07:13:25,995 - INFO -    B        0.000 
+2026-03-17 07:13:25,995 - INFO -    X        0.000 
+2026-03-17 07:13:26,573 - INFO -    B        0.000 
+2026-03-17 07:13:26,573 - INFO -    I        0.000 
+2026-03-17 07:13:26,573 - INFO -    E        0.000 
+2026-03-17 07:13:27,131 - INFO -    B        0.000 
+2026-03-17 07:13:27,131 - INFO -    E        0.000 
+2026-03-17 07:13:27,131 - INFO -    A        0.000 
+2026-03-17 07:13:27,718 - INFO -    B        0.000 
+2026-03-17 07:13:27,718 - INFO -    A        0.000 
+2026-03-17 07:13:27,719 - INFO -    E        0.000 
+2026-03-17 07:13:30,579 - INFO -    asl_alphabet_test 0.030 
+2026-03-17 07:13:30,579 - INFO -    R        0.025 
+2026-03-17 07:13:30,579 - INFO -    V        0.022 
+2026-03-17 07:13:31,718 - INFO -    V        0.029 
+2026-03-17 07:13:32,866 - INFO -    I        0.021 
+2026-03-17 07:13:32,867 - INFO -    W        0.019 
+2026-03-17 07:13:33,448 - INFO -    I        0.022 
+2026-03-17 07:13:34,566 - INFO -    R        0.012 
+2026-03-17 07:13:34,566 - INFO -    V        0.012 
+2026-03-17 07:13:35,158 - INFO -    V        0.021 
+2026-03-17 07:13:35,158 - INFO -    R        0.005 
+2026-03-17 07:13:35,720 - INFO -    V        0.026 
+2026-03-17 07:13:36,306 - INFO -    W        0.022 
+2026-03-17 07:13:36,874 - INFO -    M        0.026 
+2026-03-17 07:13:37,453 - INFO -    M        0.014 
+2026-03-17 07:13:38,006 - INFO -    I        0.026 
+2026-03-17 07:13:38,006 - INFO -    F        0.023 
+2026-03-17 07:13:38,006 - INFO -    A        0.020 
+2026-03-17 07:13:38,578 - INFO -    F        0.031 
+2026-03-17 07:13:38,578 - INFO -    A        0.025 
+2026-03-17 07:13:43,241 - INFO -    I        0.019 
+2026-03-17 07:13:43,241 - INFO -    T        0.012 
+2026-03-17 07:13:43,809 - INFO -    del      0.026 
+2026-03-17 07:13:44,403 - INFO -    P        0.029 
+2026-03-17 07:13:45,537 - INFO -    P        0.021 
+2026-03-17 07:14:01,559 - INFO - Exit requested
+2026-03-17 07:14:01,906 - INFO - Cleanup complete
+2026-03-17 07:21:28,774 - INFO - Initializing Hand Gesture Recognition (Skeleton Model with Sentence Building)
+2026-03-17 07:21:28,774 - INFO - Validating setup...
+2026-03-17 07:21:28,777 - INFO - Initializing components...
+2026-03-17 07:21:29,649 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 07:21:29,650 - INFO - Loaded 29 class names
+2026-03-17 07:21:29,655 - INFO - MediaPipe hands initialized
+2026-03-17 07:21:33,219 - INFO - Camera initialized
+2026-03-17 07:21:33,220 - INFO - Press 'q' to exit
+2026-03-17 07:21:34,217 - INFO -    P        0.017 
+2026-03-17 07:21:34,217 - INFO -    del      0.003 
+2026-03-17 07:21:34,217 - INFO -    N        0.003 
+2026-03-17 07:21:34,218 - INFO -    D        0.001 
+2026-03-17 07:21:59,564 - INFO -    A        0.021 
+2026-03-17 07:22:08,467 - INFO -    X        0.027 
+2026-03-17 07:22:10,219 - INFO -    I        0.033 
+2026-03-17 07:22:11,962 - INFO -    N        0.021 
+2026-03-17 07:22:11,962 - INFO -    T        0.017 
+2026-03-17 07:22:12,558 - INFO -    N        0.009 
+2026-03-17 07:22:12,558 - INFO -    T        0.007 
+2026-03-17 07:22:13,169 - INFO -    X        0.018 
+2026-03-17 07:22:13,725 - INFO -    T        0.033 
+2026-03-17 07:22:13,725 - INFO -    N        0.004 
+2026-03-17 07:22:14,311 - INFO -    T        0.018 
+2026-03-17 07:22:14,311 - INFO -    A        0.004 
+2026-03-17 07:22:14,886 - INFO -    T        0.018 
+2026-03-17 07:22:14,886 - INFO -    A        0.004 
+2026-03-17 07:22:15,458 - INFO -    I        0.010 
+2026-03-17 07:22:16,028 - INFO -    A        0.012 
+2026-03-17 07:22:16,613 - INFO -    A        0.017 
+2026-03-17 07:22:17,174 - INFO -    Z        0.007 
+2026-03-17 07:22:18,081 - INFO -    I        0.030 
+2026-03-17 07:22:18,082 - INFO -    Z        0.021 
+2026-03-17 07:22:18,082 - INFO -    E        0.007 
+2026-03-17 07:22:18,649 - INFO -    K        0.022 
+2026-03-17 07:22:19,212 - INFO -    F        0.021 
+2026-03-17 07:22:19,798 - INFO -    B        0.024 
+2026-03-17 07:22:20,366 - INFO -    L        0.032 
+2026-03-17 07:22:22,952 - INFO -    N        0.020 
+2026-03-17 07:22:22,952 - INFO -    K        0.012 
+2026-03-17 07:22:22,952 - INFO -    del      0.005 
+2026-03-17 07:22:22,952 - INFO -    Z        0.004 
+2026-03-17 07:22:23,566 - INFO -    N        0.011 
+2026-03-17 07:22:23,566 - INFO -    K        0.001 
+2026-03-17 07:22:23,566 - INFO -    Z        0.000 
+2026-03-17 07:22:23,566 - INFO -    H        0.000 
+2026-03-17 07:22:24,155 - INFO -    N        0.007 
+2026-03-17 07:22:24,155 - INFO -    K        0.002 
+2026-03-17 07:22:24,155 - INFO -    A        0.001 
+2026-03-17 07:22:24,155 - INFO -    H        0.000 
+2026-03-17 07:22:24,710 - INFO -    I        0.025 
+2026-03-17 07:22:24,711 - INFO -    Z        0.019 
+2026-03-17 07:22:24,711 - INFO -    K        0.007 
+2026-03-17 07:22:24,711 - INFO -    N        0.006 
+2026-03-17 07:22:25,276 - INFO -    Z        0.017 
+2026-03-17 07:22:25,276 - INFO -    N        0.011 
+2026-03-17 07:22:25,276 - INFO -    I        0.010 
+2026-03-17 07:22:25,276 - INFO -    K        0.008 
+2026-03-17 07:22:26,067 - INFO -    X        0.013 
+2026-03-17 07:22:26,067 - INFO -    K        0.010 
+2026-03-17 07:22:26,651 - INFO -    K        0.022 
+2026-03-17 07:22:26,651 - INFO -    X        0.015 
+2026-03-17 07:22:27,262 - INFO -    Q        0.024 
+2026-03-17 07:22:34,743 - INFO -    X        0.004 
+2026-03-17 07:22:34,743 - INFO -    T        0.004 
+2026-03-17 07:22:34,743 - INFO -    E        0.003 
+2026-03-17 07:22:35,323 - INFO -    E        0.009 
+2026-03-17 07:22:35,323 - INFO -    X        0.005 
+2026-03-17 07:22:35,323 - INFO -    W        0.002 
+2026-03-17 07:22:35,910 - INFO -    T        0.003 
+2026-03-17 07:22:35,910 - INFO -    E        0.003 
+2026-03-17 07:22:35,910 - INFO -    X        0.003 
+2026-03-17 07:22:36,477 - INFO -    X        0.016 
+2026-03-17 07:22:36,477 - INFO -    E        0.005 
+2026-03-17 07:22:36,477 - INFO -    T        0.004 
+2026-03-17 07:22:37,850 - INFO -    X        0.014 
+2026-03-17 07:22:37,850 - INFO -    T        0.001 
+2026-03-17 07:22:39,546 - INFO -    X        0.006 
+2026-03-17 07:22:39,546 - INFO -    N        0.006 
+2026-03-17 07:22:39,546 - INFO -    Z        0.006 
+2026-03-17 07:22:39,546 - INFO -    M        0.005 
+2026-03-17 07:22:40,482 - INFO -    X        0.028 
+2026-03-17 07:22:41,253 - INFO -    Z        0.020 
+2026-03-17 07:22:41,253 - INFO -    S        0.009 
+2026-03-17 07:22:41,253 - INFO -    T        0.006 
+2026-03-17 07:22:41,821 - INFO -    X        0.023 
+2026-03-17 07:22:41,821 - INFO -    A        0.015 
+2026-03-17 07:22:42,952 - INFO -    X        0.015 
+2026-03-17 07:22:42,952 - INFO -    D        0.003 
+2026-03-17 07:22:42,952 - INFO -    E        0.002 
+2026-03-17 07:22:44,117 - INFO -    I        0.033 
+2026-03-17 07:22:44,117 - INFO -    M        0.033 
+2026-03-17 07:22:44,117 - INFO -    F        0.013 
+2026-03-17 07:22:48,075 - INFO -    Z        0.001 
+2026-03-17 07:22:48,075 - INFO -    X        0.001 
+2026-03-17 07:22:48,075 - INFO -    E        0.000 
+2026-03-17 07:22:48,075 - INFO -    S        0.000 
+2026-03-17 07:22:48,657 - INFO -    E        0.027 
+2026-03-17 07:22:48,657 - INFO -    L        0.014 
+2026-03-17 07:22:49,243 - INFO -    W        0.031 
+2026-03-17 07:22:49,243 - INFO -    R        0.026 
+2026-03-17 07:22:49,821 - INFO -    R        0.031 
+2026-03-17 07:22:50,406 - INFO -    R        0.009 
+2026-03-17 07:22:50,406 - INFO -    D        0.001 
+2026-03-17 07:22:50,406 - INFO -    T        0.001 
+2026-03-17 07:22:53,608 - INFO -    D        0.024 
+2026-03-17 07:22:53,608 - INFO -    R        0.016 
+2026-03-17 07:22:54,849 - INFO -    W        0.032 
+2026-03-17 07:22:54,849 - INFO -    D        0.026 
+2026-03-17 07:22:54,849 - INFO -    R        0.013 
+2026-03-17 07:22:56,757 - INFO -    Z        0.016 
+2026-03-17 07:22:56,757 - INFO -    D        0.007 
+2026-03-17 07:22:56,757 - INFO -    X        0.006 
+2026-03-17 07:22:56,758 - INFO -    R        0.002 
+2026-03-17 07:22:58,157 - INFO -    Z        0.016 
+2026-03-17 07:22:58,157 - INFO -    X        0.000 
+2026-03-17 07:22:58,157 - INFO -    E        0.000 
+2026-03-17 07:22:58,158 - INFO -    D        0.000 
+2026-03-17 07:22:58,744 - INFO -    R        0.031 
+2026-03-17 07:22:58,744 - INFO -    D        0.024 
+2026-03-17 07:22:58,744 - INFO -    K        0.020 
+2026-03-17 07:23:01,142 - INFO -    N        0.032 
+2026-03-17 07:23:01,142 - INFO -    W        0.024 
+2026-03-17 07:23:01,142 - INFO -    E        0.021 
+2026-03-17 07:23:02,875 - INFO -    M        0.033 
+2026-03-17 07:23:07,531 - INFO -    B        0.018 
+2026-03-17 07:23:08,166 - INFO -    B        0.024 
+2026-03-17 07:23:08,731 - INFO -    E        0.030 
+2026-03-17 07:23:08,731 - INFO -    D        0.007 
+2026-03-17 07:23:09,388 - INFO -    N        0.005 
+2026-03-17 07:23:09,957 - INFO -    N        0.028 
+2026-03-17 07:23:10,550 - INFO -    E        0.011 
+2026-03-17 07:23:10,550 - INFO -    T        0.003 
+2026-03-17 07:23:11,122 - INFO -    E        0.009 
+2026-03-17 07:23:11,122 - INFO -    D        0.003 
+2026-03-17 07:23:11,743 - INFO -    E        0.007 
+2026-03-17 07:23:11,743 - INFO -    D        0.003 
+2026-03-17 07:23:12,324 - INFO -    I        0.020 
+2026-03-17 07:23:12,324 - INFO -    Z        0.019 
+2026-03-17 07:23:12,324 - INFO -    E        0.001 
+2026-03-17 07:23:12,324 - INFO -    T        0.001 
+2026-03-17 07:23:12,941 - INFO -    Z        0.012 
+2026-03-17 07:23:12,941 - INFO -    E        0.007 
+2026-03-17 07:23:12,941 - INFO -    D        0.001 
+2026-03-17 07:23:13,510 - INFO -    Z        0.022 
+2026-03-17 07:23:13,510 - INFO -    E        0.006 
+2026-03-17 07:23:13,510 - INFO -    T        0.001 
+2026-03-17 07:23:14,078 - INFO -    Z        0.021 
+2026-03-17 07:23:14,078 - INFO -    E        0.003 
+2026-03-17 07:23:14,078 - INFO -    T        0.001 
+2026-03-17 07:23:14,651 - INFO -    Z        0.014 
+2026-03-17 07:23:14,651 - INFO -    E        0.005 
+2026-03-17 07:23:14,651 - INFO -    T        0.001 
+2026-03-17 07:23:15,218 - INFO -    Z        0.004 
+2026-03-17 07:23:15,218 - INFO -    E        0.003 
+2026-03-17 07:23:15,218 - INFO -    N        0.000 
+2026-03-17 07:23:15,800 - INFO -    Z        0.013 
+2026-03-17 07:23:15,800 - INFO -    E        0.001 
+2026-03-17 07:23:15,801 - INFO -    K        0.000 
+2026-03-17 07:23:16,428 - INFO -    Z        0.005 
+2026-03-17 07:23:16,428 - INFO -    E        0.001 
+2026-03-17 07:23:16,428 - INFO -    K        0.000 
+2026-03-17 07:23:18,828 - INFO -    B        0.024 
+2026-03-17 07:23:19,973 - INFO -    N        0.020 
+2026-03-17 07:23:19,973 - INFO -    M        0.015 
+2026-03-17 07:23:22,874 - INFO -    Z        0.030 
+2026-03-17 07:23:22,874 - INFO -    N        0.020 
+2026-03-17 07:23:23,454 - INFO -    Z        0.017 
+2026-03-17 07:23:23,454 - INFO -    F        0.016 
+2026-03-17 07:23:25,251 - INFO -    Z        0.032 
+2026-03-17 07:23:25,851 - INFO -    M        0.018 
+2026-03-17 07:23:25,851 - INFO -    I        0.013 
+2026-03-17 07:23:25,851 - INFO -    Z        0.007 
+2026-03-17 07:23:26,435 - INFO -    Z        0.028 
+2026-03-17 07:23:27,000 - INFO -    Z        0.023 
+2026-03-17 07:23:27,000 - INFO -    M        0.021 
+2026-03-17 07:23:27,654 - INFO -    M        0.027 
+2026-03-17 07:23:28,250 - INFO -    M        0.019 
+2026-03-17 07:23:28,250 - INFO -    N        0.009 
+2026-03-17 07:23:28,821 - INFO -    I        0.032 
+2026-03-17 07:23:28,821 - INFO -    N        0.018 
+2026-03-17 07:23:29,453 - INFO -    I        0.029 
+2026-03-17 07:23:29,453 - INFO -    W        0.013 
+2026-03-17 07:23:29,453 - INFO -    M        0.012 
+2026-03-17 07:23:31,866 - INFO -    E        0.001 
+2026-03-17 07:23:31,866 - INFO -    I        0.001 
+2026-03-17 07:23:31,866 - INFO -    A        0.000 
+2026-03-17 07:23:32,453 - INFO -    I        0.000 
+2026-03-17 07:23:32,453 - INFO -    E        0.000 
+2026-03-17 07:23:32,453 - INFO -    B        0.000 
+2026-03-17 07:23:33,081 - INFO -    E        0.000 
+2026-03-17 07:23:33,081 - INFO -    B        0.000 
+2026-03-17 07:23:33,081 - INFO -    I        0.000 
+2026-03-17 07:23:34,560 - INFO -    Q        0.013 
+2026-03-17 07:23:34,560 - INFO -    R        0.011 
+2026-03-17 07:23:34,560 - INFO -    Z        0.010 
+2026-03-17 07:23:35,131 - INFO -    I        0.027 
+2026-03-17 07:23:35,747 - INFO -    Q        0.022 
+2026-03-17 07:23:36,356 - INFO -    I        0.012 
+2026-03-17 07:23:36,356 - INFO -    N        0.003 
+2026-03-17 07:23:36,935 - INFO -    space    0.015 
+2026-03-17 07:23:37,519 - INFO -    Q        0.009 
+2026-03-17 07:23:37,520 - INFO -    R        0.009 
+2026-03-17 07:23:37,520 - INFO -    N        0.004 
+2026-03-17 07:23:38,098 - INFO -    Q        0.030 
+2026-03-17 07:23:38,098 - INFO -    I        0.015 
+2026-03-17 07:23:38,098 - INFO -    N        0.005 
+2026-03-17 07:23:38,683 - INFO -    Q        0.030 
+2026-03-17 07:23:38,683 - INFO -    space    0.028 
+2026-03-17 07:23:49,735 - INFO - Exit requested
+2026-03-17 07:23:50,067 - INFO - Cleanup complete
+2026-03-17 07:24:02,041 - INFO - Initializing Hand Gesture Recognition (Skeleton Model)
+2026-03-17 07:24:02,041 - INFO - Validating setup...
+2026-03-17 07:24:02,043 - INFO - Initializing components...
+2026-03-17 07:24:03,091 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 29)
+2026-03-17 07:24:03,092 - INFO - Loaded 29 class names
+2026-03-17 07:24:03,098 - INFO - MediaPipe hands initialized
+2026-03-17 07:24:07,132 - INFO - Camera initialized
+2026-03-17 07:24:07,135 - INFO - Press 'q' to exit
+2026-03-17 07:24:19,092 - INFO -    P        0.025 
+2026-03-17 07:24:19,092 - INFO -    R        0.017 
+2026-03-17 07:24:19,662 - INFO -    G        0.025 
+2026-03-17 07:24:22,572 - INFO -    C        0.021 
+2026-03-17 07:24:23,773 - INFO -    space    0.018 
+2026-03-17 07:24:23,773 - INFO -    M        0.010 
+2026-03-17 07:24:24,367 - INFO -    S        0.017 
+2026-03-17 07:24:24,974 - INFO -    I        0.023 
+2026-03-17 07:24:26,170 - INFO -    T        0.032 
+2026-03-17 07:24:26,170 - INFO -    space    0.008 
+2026-03-17 07:24:26,170 - INFO -    G        0.007 
+2026-03-17 07:24:26,732 - INFO -    X        0.020 
+2026-03-17 07:24:27,317 - INFO -    N        0.022 
+2026-03-17 07:24:27,317 - INFO -    S        0.013 
+2026-03-17 07:24:27,883 - INFO -    I        0.030 
+2026-03-17 07:24:27,883 - INFO -    N        0.006 
+2026-03-17 07:24:28,461 - INFO -    N        0.028 
+2026-03-17 07:24:29,036 - INFO -    space    0.020 
+2026-03-17 07:24:29,623 - INFO -    T        0.030 
+2026-03-17 07:24:29,623 - INFO -    G        0.007 
+2026-03-17 07:24:37,831 - INFO -    P        0.023 
+2026-03-17 07:24:38,394 - INFO -    P        0.018 
+2026-03-17 07:24:38,394 - INFO -    G        0.008 
+2026-03-17 07:24:38,394 - INFO -    N        0.006 
+2026-03-17 07:24:38,961 - INFO -    G        0.017 
+2026-03-17 07:24:38,961 - INFO -    J        0.008 
+2026-03-17 07:24:39,532 - INFO -    N        0.015 
+2026-03-17 07:24:39,532 - INFO -    H        0.013 
+2026-03-17 07:24:40,112 - INFO -    H        0.013 
+2026-03-17 07:24:40,112 - INFO -    N        0.005 
+2026-03-17 07:25:24,991 - INFO -    R        0.029 
+2026-03-17 07:25:26,185 - INFO -    R        0.019 
+2026-03-17 07:25:26,186 - INFO -    X        0.016 
+2026-03-17 07:25:26,756 - INFO -    P        0.016 
+2026-03-17 07:25:26,756 - INFO -    I        0.015 
+2026-03-17 07:25:26,756 - INFO -    asl_alphabet_test 0.012 
+2026-03-17 07:25:27,317 - INFO -    X        0.015 
+2026-03-17 07:25:27,318 - INFO -    R        0.013 
+2026-03-17 07:25:27,318 - INFO -    I        0.008 
+2026-03-17 07:25:27,901 - INFO -    H        0.030 
+2026-03-17 07:25:28,489 - INFO -    G        0.031 
+2026-03-17 07:25:28,489 - INFO -    R        0.027 
+2026-03-17 07:25:28,489 - INFO -    J        0.020 
+2026-03-17 07:25:29,104 - INFO -    X        0.033 
+2026-03-17 07:25:29,687 - INFO -    X        0.022 
+2026-03-17 07:25:30,299 - INFO -    K        0.013 
+2026-03-17 07:25:33,283 - INFO -    G        0.029 
+2026-03-17 07:25:33,284 - INFO -    K        0.019 
+2026-03-17 07:25:33,284 - INFO -    P        0.019 
+2026-03-17 07:25:33,284 - INFO -    I        0.007 
+2026-03-17 07:25:33,897 - INFO -    U        0.009 
+2026-03-17 07:25:33,897 - INFO -    K        0.001 
+2026-03-17 07:25:33,897 - INFO -    N        0.001 
+2026-03-17 07:25:33,897 - INFO -    X        0.001 
+2026-03-17 07:25:36,299 - INFO -    W        0.021 
+2026-03-17 07:25:36,887 - INFO -    I        0.027 
+2026-03-17 07:25:38,093 - INFO -    W        0.029 
+2026-03-17 07:25:39,289 - INFO -    W        0.027 
+2026-03-17 07:25:39,895 - INFO -    W        0.031 
+2026-03-17 07:25:41,101 - INFO -    W        0.015 
+2026-03-17 07:25:42,885 - INFO -    K        0.032 
+2026-03-17 07:25:43,452 - INFO -    D        0.008 
+2026-03-17 07:25:44,028 - INFO -    D        0.032 
+2026-03-17 07:25:44,620 - INFO -    D        0.033 
+2026-03-17 07:25:44,620 - INFO -    K        0.019 
+2026-03-17 07:25:45,782 - INFO -    R        0.033 
+2026-03-17 07:25:47,593 - INFO -    D        0.028 
+2026-03-17 07:25:49,994 - INFO -    W        0.022 
+2026-03-17 07:25:50,581 - INFO -    W        0.028 
+2026-03-17 07:25:51,780 - INFO -    D        0.032 
+2026-03-17 07:25:52,978 - INFO -    B        0.016 
+2026-03-17 07:25:52,978 - INFO -    E        0.010 
+2026-03-17 07:25:52,978 - INFO -    I        0.001 
+2026-03-17 07:25:52,978 - INFO -    K        0.000 
+2026-03-17 07:25:53,542 - INFO -    Z        0.004 
+2026-03-17 07:25:54,119 - INFO -    B        0.015 
+2026-03-17 07:25:54,119 - INFO -    I        0.012 
+2026-03-17 07:25:54,119 - INFO -    V        0.009 
+2026-03-17 07:25:54,119 - INFO -    K        0.008 
+2026-03-17 07:25:54,680 - INFO -    Z        0.029 
+2026-03-17 07:25:54,680 - INFO -    G        0.013 
+2026-03-17 07:25:55,251 - INFO -    I        0.002 
+2026-03-17 07:25:55,252 - INFO -    R        0.001 
+2026-03-17 07:25:55,252 - INFO -    Z        0.000 
+2026-03-17 07:25:57,377 - INFO -    X        0.030 
+2026-03-17 07:25:57,934 - INFO -    D        0.021 
+2026-03-17 07:25:57,934 - INFO -    X        0.015 
+2026-03-17 07:25:57,934 - INFO -    Z        0.011 
+2026-03-17 07:25:58,500 - INFO -    F        0.024 
+2026-03-17 07:25:58,500 - INFO -    W        0.008 
+2026-03-17 07:25:58,500 - INFO -    E        0.004 
+2026-03-17 07:25:59,081 - INFO -    F        0.033 
+2026-03-17 07:26:00,821 - INFO -    L        0.015 
+2026-03-17 07:26:00,821 - INFO -    T        0.013 
+2026-03-17 07:26:01,387 - INFO -    Z        0.022 
+2026-03-17 07:26:01,387 - INFO -    D        0.008 
+2026-03-17 07:26:01,987 - INFO -    X        0.016 
+2026-03-17 07:26:02,549 - INFO -    Z        0.010 
+2026-03-17 07:26:03,130 - INFO -    M        0.018 
+2026-03-17 07:26:03,130 - INFO -    K        0.013 
+2026-03-17 07:26:03,130 - INFO -    Z        0.012 
+2026-03-17 07:26:03,711 - INFO -    E        0.027 
+2026-03-17 07:26:03,711 - INFO -    Z        0.006 
+2026-03-17 07:26:03,711 - INFO -    I        0.005 
+2026-03-17 07:26:03,712 - INFO -    K        0.002 
+2026-03-17 07:26:04,275 - INFO -    Z        0.030 
+2026-03-17 07:26:04,275 - INFO -    X        0.024 
+2026-03-17 07:26:05,419 - INFO -    K        0.005 
+2026-03-17 07:26:05,419 - INFO -    D        0.002 
+2026-03-17 07:26:05,419 - INFO -    W        0.001 
+2026-03-17 07:26:05,419 - INFO -    U        0.001 
+2026-03-17 07:26:05,986 - INFO -    W        0.017 
+2026-03-17 07:26:05,986 - INFO -    V        0.013 
+2026-03-17 07:26:05,986 - INFO -    U        0.005 
+2026-03-17 07:26:06,549 - INFO -    W        0.010 
+2026-03-17 07:26:06,549 - INFO -    I        0.007 
+2026-03-17 07:26:06,549 - INFO -    V        0.004 
+2026-03-17 07:26:07,115 - INFO -    I        0.029 
+2026-03-17 07:26:08,278 - INFO -    Z        0.019 
+2026-03-17 07:26:08,278 - INFO -    I        0.013 
+2026-03-17 07:26:08,278 - INFO -    W        0.008 
+2026-03-17 07:26:08,895 - INFO -    W        0.024 
+2026-03-17 07:26:08,895 - INFO -    V        0.016 
+2026-03-17 07:26:08,895 - INFO -    Z        0.010 
+2026-03-17 07:26:09,480 - INFO -    I        0.011 
+2026-03-17 07:26:09,480 - INFO -    W        0.010 
+2026-03-17 07:26:09,481 - INFO -    U        0.010 
+2026-03-17 07:26:10,053 - INFO -    Z        0.025 
+2026-03-17 07:26:10,053 - INFO -    I        0.021 
+2026-03-17 07:26:10,639 - INFO -    V        0.009 
+2026-03-17 07:26:10,639 - INFO -    W        0.006 
+2026-03-17 07:26:10,639 - INFO -    Z        0.002 
+2026-03-17 07:26:11,205 - INFO -    W        0.029 
+2026-03-17 07:26:11,205 - INFO -    Z        0.017 
+2026-03-17 07:26:11,205 - INFO -    V        0.009 
+2026-03-17 07:26:11,786 - INFO -    Z        0.015 
+2026-03-17 07:26:11,786 - INFO -    V        0.008 
+2026-03-17 07:26:12,374 - INFO -    M        0.025 
+2026-03-17 07:26:12,374 - INFO -    U        0.014 
+2026-03-17 07:26:12,374 - INFO -    Z        0.008 
+2026-03-17 07:26:12,946 - INFO -    V        0.010 
+2026-03-17 07:26:12,946 - INFO -    W        0.010 
+2026-03-17 07:26:12,946 - INFO -    Z        0.004 
+2026-03-17 07:26:13,530 - INFO -    N        0.021 
+2026-03-17 07:26:14,129 - INFO -    U        0.026 
+2026-03-17 07:26:14,129 - INFO -    M        0.025 
+2026-03-17 07:26:14,716 - INFO -    I        0.008 
+2026-03-17 07:26:14,716 - INFO -    W        0.003 
+2026-03-17 07:26:14,716 - INFO -    U        0.002 
+2026-03-17 07:26:15,290 - INFO -    W        0.006 
+2026-03-17 07:26:15,290 - INFO -    V        0.005 
+2026-03-17 07:26:15,290 - INFO -    Z        0.003 
+2026-03-17 07:26:15,847 - INFO -    I        0.031 
+2026-03-17 07:26:15,847 - INFO -    W        0.020 
+2026-03-17 07:26:16,416 - INFO -    V        0.017 
+2026-03-17 07:26:16,416 - INFO -    U        0.016 
+2026-03-17 07:26:16,416 - INFO -    W        0.016 
+2026-03-17 07:26:16,975 - INFO -    Z        0.024 
+2026-03-17 07:26:19,877 - INFO -    Y        0.031 
+2026-03-17 07:26:19,877 - INFO -    I        0.025 
+2026-03-17 07:26:20,488 - INFO -    F        0.026 
+2026-03-17 07:26:20,488 - INFO -    M        0.006 
+2026-03-17 07:26:20,488 - INFO -    I        0.003 
+2026-03-17 07:26:25,615 - INFO -    D        0.027 
+2026-03-17 07:26:25,615 - INFO -    E        0.023 
+2026-03-17 07:26:25,616 - INFO -    I        0.022 
+2026-03-17 07:26:25,616 - INFO -    R        0.016 
+2026-03-17 07:26:27,351 - INFO -    Z        0.019 
+2026-03-17 07:26:27,914 - INFO -    Z        0.032 
+2026-03-17 07:26:27,915 - INFO -    P        0.013 
+2026-03-17 07:26:27,915 - INFO -    X        0.010 
+2026-03-17 07:26:28,490 - INFO -    A        0.029 
+2026-03-17 07:26:28,491 - INFO -    N        0.023 
+2026-03-17 07:26:29,078 - INFO -    M        0.017 
+2026-03-17 07:26:29,078 - INFO -    C        0.016 
+2026-03-17 07:26:34,315 - INFO -    K        0.006 
+2026-03-17 07:26:34,315 - INFO -    P        0.006 
+2026-03-17 07:26:34,878 - INFO -    X        0.031 
+2026-03-17 07:26:34,878 - INFO -    P        0.024 
+2026-03-17 07:26:37,837 - INFO -    T        0.021 
+2026-03-17 07:26:37,837 - INFO -    F        0.014 
+2026-03-17 07:26:44,234 - INFO -    M        0.028 
+2026-03-17 07:26:44,234 - INFO -    Y        0.028 
+2026-03-17 07:26:44,234 - INFO -    E        0.017 
+2026-03-17 07:26:45,381 - INFO -    L        0.028 
+2026-03-17 07:26:47,782 - INFO -    T        0.012 
+2026-03-17 07:26:47,782 - INFO -    I        0.004 
+2026-03-17 07:26:47,782 - INFO -    asl_alphabet_test 0.003 
+2026-03-17 07:26:48,342 - INFO -    X        0.012 
+2026-03-17 07:26:48,342 - INFO -    I        0.008 
+2026-03-17 07:26:48,342 - INFO -    K        0.007 
+2026-03-17 07:26:48,904 - INFO -    E        0.031 
+2026-03-17 07:26:49,472 - INFO -    X        0.013 
+2026-03-17 07:26:50,078 - INFO -    E        0.013 
+2026-03-17 07:26:50,639 - INFO -    Z        0.030 
+2026-03-17 07:26:51,231 - INFO -    Y        0.009 
+2026-03-17 07:26:51,231 - INFO -    I        0.008 
+2026-03-17 07:26:51,231 - INFO -    K        0.005 
+2026-03-17 07:26:51,787 - INFO -    T        0.029 
+2026-03-17 07:26:51,787 - INFO -    K        0.029 
+2026-03-17 07:26:51,787 - INFO -    I        0.024 
+2026-03-17 07:26:52,360 - INFO -    B        0.031 
+2026-03-17 07:26:52,925 - INFO -    Y        0.016 
+2026-03-17 07:26:52,925 - INFO -    T        0.005 
+2026-03-17 07:26:54,074 - INFO -    Y        0.004 
+2026-03-17 07:26:54,074 - INFO -    I        0.001 
+2026-03-17 07:26:54,074 - INFO -    K        0.001 
+2026-03-17 07:26:54,074 - INFO -    W        0.000 
+2026-03-17 07:26:54,647 - INFO -    O        0.032 
+2026-03-17 07:26:54,647 - INFO -    I        0.016 
+2026-03-17 07:26:55,281 - INFO -    I        0.022 
+2026-03-17 07:26:55,281 - INFO -    X        0.011 
+2026-03-17 07:26:55,281 - INFO -    asl_alphabet_test 0.005 
+2026-03-17 07:26:55,842 - INFO -    E        0.006 
+2026-03-17 07:26:56,968 - INFO -    Y        0.031 
+2026-03-17 07:26:56,969 - INFO -    I        0.002 
+2026-03-17 07:26:56,969 - INFO -    L        0.001 
+2026-03-17 07:26:56,969 - INFO -    X        0.001 
+2026-03-17 07:26:59,799 - INFO -    D        0.012 
+2026-03-17 07:26:59,799 - INFO -    R        0.010 
+2026-03-17 07:26:59,799 - INFO -    T        0.009 
+2026-03-17 07:26:59,800 - INFO -    X        0.009 
+2026-03-17 07:27:00,388 - INFO -    R        0.024 
+2026-03-17 07:27:02,098 - INFO -    X        0.024 
+2026-03-17 07:27:02,098 - INFO -    D        0.009 
+2026-03-17 07:27:03,835 - INFO -    I        0.027 
+2026-03-17 07:27:03,835 - INFO -    Z        0.017 
+2026-03-17 07:27:03,835 - INFO -    S        0.013 
+2026-03-17 07:27:07,268 - INFO -    Z        0.011 
+2026-03-17 07:27:07,268 - INFO -    R        0.008 
+2026-03-17 07:27:07,268 - INFO -    M        0.004 
+2026-03-17 07:27:07,829 - INFO -    K        0.017 
+2026-03-17 07:27:08,401 - INFO -    I        0.015 
+2026-03-17 07:27:08,401 - INFO -    L        0.013 
+2026-03-17 07:27:08,401 - INFO -    X        0.010 
+2026-03-17 07:27:09,532 - INFO -    space    0.023 
+2026-03-17 07:27:10,096 - INFO -    Z        0.029 
+2026-03-17 07:27:10,678 - INFO -    Z        0.013 
+2026-03-17 07:27:10,679 - INFO -    M        0.011 
+2026-03-17 07:27:11,268 - INFO -    X        0.010 
+2026-03-17 07:27:11,841 - INFO -    K        0.023 
+2026-03-17 07:27:11,841 - INFO -    D        0.015 
+2026-03-17 07:27:11,841 - INFO -    I        0.014 
+2026-03-17 07:27:12,399 - INFO -    K        0.024 
+2026-03-17 07:27:12,399 - INFO -    I        0.024 
+2026-03-17 07:27:12,400 - INFO -    X        0.016 
+2026-03-17 07:27:12,400 - INFO -    D        0.016 
+2026-03-17 07:27:12,964 - INFO -    Z        0.015 
+2026-03-17 07:27:12,964 - INFO -    E        0.015 
+2026-03-17 07:27:12,964 - INFO -    W        0.006 
+2026-03-17 07:27:14,105 - INFO -    Z        0.016 
+2026-03-17 07:27:14,105 - INFO -    K        0.012 
+2026-03-17 07:27:14,105 - INFO -    I        0.006 
+2026-03-17 07:27:14,692 - INFO -    X        0.031 
+2026-03-17 07:27:15,269 - INFO -    X        0.022 
+2026-03-17 07:27:15,269 - INFO -    D        0.011 
+2026-03-17 07:27:15,853 - INFO -    I        0.017 
+2026-03-17 07:27:15,853 - INFO -    N        0.014 
+2026-03-17 07:27:17,002 - INFO -    D        0.016 
+2026-03-17 07:27:17,002 - INFO -    Z        0.007 
+2026-03-17 07:27:17,003 - INFO -    G        0.004 
+2026-03-17 07:27:17,583 - INFO -    R        0.029 
+2026-03-17 07:27:18,779 - INFO -    K        0.006 
+2026-03-17 07:27:18,779 - INFO -    I        0.003 
+2026-03-17 07:27:18,779 - INFO -    D        0.003 
+2026-03-17 07:27:18,779 - INFO -    Z        0.001 
+2026-03-17 07:27:19,470 - INFO -    K        0.019 
+2026-03-17 07:27:19,470 - INFO -    I        0.007 
+2026-03-17 07:27:19,470 - INFO -    X        0.002 
+2026-03-17 07:27:19,470 - INFO -    D        0.002 
+2026-03-17 07:27:20,073 - INFO -    I        0.019 
+2026-03-17 07:27:20,637 - INFO -    Z        0.026 
+2026-03-17 07:27:20,637 - INFO -    X        0.013 
+2026-03-17 07:27:21,766 - INFO -    Z        0.028 
+2026-03-17 07:27:22,341 - INFO -    J        0.025 
+2026-03-17 07:27:22,341 - INFO -    T        0.024 
+2026-03-17 07:27:22,342 - INFO -    Y        0.016 
+2026-03-17 07:27:22,901 - INFO -    G        0.020 
+2026-03-17 07:27:24,450 - INFO -    L        0.025 
+2026-03-17 07:27:25,016 - INFO -    E        0.025 
+2026-03-17 07:27:26,728 - INFO -    E        0.032 
+2026-03-17 07:27:26,728 - INFO -    F        0.028 
+2026-03-17 07:27:27,300 - INFO -    C        0.016 
+2026-03-17 07:27:27,300 - INFO -    M        0.012 
+2026-03-17 07:27:27,300 - INFO -    D        0.009 
+2026-03-17 07:27:28,437 - INFO -    K        0.010 
+2026-03-17 07:27:28,437 - INFO -    T        0.010 
+2026-03-17 07:27:28,437 - INFO -    R        0.008 
+2026-03-17 07:27:28,437 - INFO -    space    0.007 
+2026-03-17 07:27:28,999 - INFO -    del      0.024 
+2026-03-17 07:27:28,999 - INFO -    A        0.010 
+2026-03-17 07:27:28,999 - INFO -    C        0.007 
+2026-03-17 07:27:31,328 - INFO -    X        0.021 
+2026-03-17 07:27:31,328 - INFO -    A        0.020 
+2026-03-17 07:27:31,888 - INFO -    Z        0.031 
+2026-03-17 07:27:32,473 - INFO -    D        0.032 
+2026-03-17 07:27:34,780 - INFO -    I        0.023 
+2026-03-17 07:27:34,780 - INFO -    F        0.014 
+2026-03-17 07:27:37,680 - INFO -    N        0.015 
+2026-03-17 07:27:37,680 - INFO -    B        0.013 
+2026-03-17 07:27:38,264 - INFO -    Z        0.023 
+2026-03-17 07:27:38,265 - INFO -    I        0.021 
+2026-03-17 07:27:38,876 - INFO -    D        0.029 
+2026-03-17 07:27:40,032 - INFO -    K        0.029 
+2026-03-17 07:27:40,033 - INFO -    I        0.021 
+2026-03-17 07:27:40,033 - INFO -    V        0.018 
+2026-03-17 07:27:40,033 - INFO -    X        0.007 
+2026-03-17 07:27:40,592 - INFO -    X        0.028 
+2026-03-17 07:27:40,592 - INFO -    P        0.015 
+2026-03-17 07:27:41,157 - INFO -    K        0.032 
+2026-03-17 07:27:41,720 - INFO -    B        0.013 
+2026-03-17 07:27:43,460 - INFO -    I        0.016 
+2026-03-17 07:27:43,460 - INFO -    D        0.004 
+2026-03-17 07:27:43,460 - INFO -    Z        0.003 
+2026-03-17 07:27:44,018 - INFO -    Z        0.014 
+2026-03-17 07:27:45,178 - INFO -    Z        0.027 
+2026-03-17 07:27:45,178 - INFO -    D        0.015 
+2026-03-17 07:27:45,763 - INFO -    I        0.033 
+2026-03-17 07:27:47,462 - INFO -    Z        0.019 
+2026-03-17 07:27:47,462 - INFO -    E        0.018 
+2026-03-17 07:27:48,033 - INFO -    E        0.012 
+2026-03-17 07:27:48,603 - INFO -    O        0.008 
+2026-03-17 07:27:51,466 - INFO -    R        0.022 
+2026-03-17 07:27:51,466 - INFO -    del      0.006 
+2026-03-17 07:27:51,466 - INFO -    P        0.005 
+2026-03-17 07:27:52,094 - INFO -    P        0.013 
+2026-03-17 07:27:52,094 - INFO -    R        0.006 
+2026-03-17 07:27:52,094 - INFO -    C        0.002 
+2026-03-17 07:27:52,665 - INFO -    I        0.006 
+2026-03-17 07:27:52,665 - INFO -    C        0.004 
+2026-03-17 07:27:55,036 - INFO -    I        0.013 
+2026-03-17 07:27:55,036 - INFO -    R        0.006 
+2026-03-17 07:27:55,037 - INFO -    P        0.004 
+2026-03-17 07:27:56,788 - INFO -    I        0.024 
+2026-03-17 07:27:57,372 - INFO -    T        0.007 
+2026-03-17 07:27:57,372 - INFO -    P        0.006 
+2026-03-17 07:27:57,372 - INFO -    I        0.004 
+2026-03-17 07:27:57,954 - INFO -    P        0.020 
+2026-03-17 07:27:57,954 - INFO -    C        0.010 
+2026-03-17 07:28:01,211 - INFO - Exit requested
+2026-03-17 07:28:01,562 - INFO - Cleanup complete
+2026-04-29 06:04:34,663 - INFO - Initializing Hand Gesture Recognition (Skeleton Model)
+2026-04-29 06:04:34,664 - INFO - Validating setup...
+2026-04-29 06:04:34,685 - INFO - Initializing components...
+2026-04-29 06:04:36,137 - INFO - Model loaded: input (None, 224, 224, 3), output (None, 28)
+2026-04-29 06:04:36,157 - INFO - Loaded 28 class names
+2026-04-29 06:04:36,183 - INFO - MediaPipe hands initialized
+2026-04-29 06:04:39,612 - INFO - Camera initialized
+2026-04-29 06:04:39,614 - INFO - Press 'q' to exit
+2026-04-29 06:05:25,560 - INFO - Exit requested
+2026-04-29 06:05:25,920 - INFO - Cleanup complete

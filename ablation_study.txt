@@ -1,0 +1,14 @@
+ABLATION STUDY -- ASL Recognition
+==========================================================================================
+Configuration                                      Change                            Acc
+------------------------------------------------------------------------------------------
+Full system (MobileNetV2 Crop + Fine-tune)         -- (full system)               0.9513
+No fine-tuning (Phase 1 only)                      Remove fine-tune phase         0.9968
+No cropping (MobileNetV2 Raw)                      Remove H05 cropping            0.9968
+Landmark MLP (normalised)                          Replace CNN with MLP           0.9763
+EfficientNetB0 Crop                                Swap backbone                  0.9908
+EfficientNetB0 Raw                                 Swap backbone + no crop        0.9969
+MobileNetV2 Skeleton                               Use skeleton rendering         0.8455
+------------------------------------------------------------------------------------------
+
+Best model: EfficientNetB0 Raw  |  Accuracy: 0.9969

@@ -1,0 +1,10 @@
+tensorflow
+opencv-python
+mediapipe
+imutils
+scikit-learn
+pandas
+matplotlib
+tqdm
+spellchecker
+textblob
