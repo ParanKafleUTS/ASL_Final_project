@@ -1,0 +1,51 @@
+{
+  "landmark_mlp.h5": {
+    "mean_ms": 28.59,
+    "median_ms": 28.23,
+    "std_ms": 3.85,
+    "p95_ms": 30.34,
+    "max_fps": 35.0
+  },
+  "mobilenetv2_raw.h5": {
+    "mean_ms": 45.95,
+    "median_ms": 45.18,
+    "std_ms": 5.76,
+    "p95_ms": 50.45,
+    "max_fps": 21.8
+  },
+  "efficientnetb0_raw.h5": {
+    "mean_ms": 58.97,
+    "median_ms": 57.26,
+    "std_ms": 8.76,
+    "p95_ms": 70.57,
+    "max_fps": 17.0
+  },
+  "mobilenetv2_crop.h5": {
+    "mean_ms": 47.98,
+    "median_ms": 47.2,
+    "std_ms": 7.53,
+    "p95_ms": 53.36,
+    "max_fps": 20.8
+  },
+  "efficientnetb0_crop.h5": {
+    "mean_ms": 61.47,
+    "median_ms": 60.03,
+    "std_ms": 8.48,
+    "p95_ms": 67.72,
+    "max_fps": 16.3
+  },
+  "mobilenetv2_skeleton.h5": {
+    "mean_ms": 49.06,
+    "median_ms": 48.55,
+    "std_ms": 3.32,
+    "p95_ms": 54.42,
+    "max_fps": 20.4
+  },
+  "efficientnetb0_skeleton.h5": {
+    "mean_ms": 63.3,
+    "median_ms": 62.28,
+    "std_ms": 6.16,
+    "p95_ms": 69.99,
+    "max_fps": 15.8
+  }
+}

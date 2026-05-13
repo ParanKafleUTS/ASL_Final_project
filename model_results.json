@@ -1,0 +1,9 @@
+{
+  "Landmark MLP": 0.9763,
+  "MobileNetV2 Raw": 0.9968,
+  "EfficientNetB0 Raw": 0.9969,
+  "MobileNetV2 Crop": 0.9513,
+  "EfficientNetB0 Crop": 0.9908,
+  "MobileNetV2 Skeleton": 0.8455,
+  "EfficientNetB0 Skeleton": 0.8616
+}
